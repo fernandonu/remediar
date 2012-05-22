@@ -1,0 +1,1 @@
+5	Detalles	Carga Remediar+Redes	remediar.php	"fecha_comprobante"=>$fecha_comprobante,"id_smiafiliados"=>$id_smiafiliados,"cuie"=>$cuie,"pagina"=>"prestacion_admin.php"	1		R+R01		-	-

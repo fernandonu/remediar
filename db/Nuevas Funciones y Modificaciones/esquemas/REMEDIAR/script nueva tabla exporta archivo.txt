@@ -1,0 +1,22 @@
+CREATE SEQUENCE remediar.listado_enviados_id_enviados_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 6293
+  CACHE 1;
+ALTER TABLE remediar.listado_enviados_id_enviados_seq OWNER TO projekt;
+
+
+CREATE TABLE "remediar"."listado_enviados" (
+"id_enviados" int4 DEFAULT nextval('"remediar".listado_enviados_id_enviados_seq1'::regclass) NOT NULL,
+"fecha_generacion" timestamp(6),
+"usuario" varchar(10),
+"nombre_archivo_enviado" varchar(50),
+"id_beneficiarios" int4 NOT NULL,
+"puco" char(7),
+"id_encab_form" int4 NOT NULL,
+CONSTRAINT "listadoenviados_pk" PRIMARY KEY ("id_enviados")
+)
+WITH (OIDS=FALSE)
+;
+ALTER TABLE remediar.listado_enviados OWNER TO projekt;

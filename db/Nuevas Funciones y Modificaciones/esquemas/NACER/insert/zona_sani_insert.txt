@@ -1,0 +1,6 @@
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('11,'ZONA DE SLAUD "NORESTE"');
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('10,'ZONA DE SLAUD "NORTE PARANA"');
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('9,'ZONA DE SLAUD "CENTRO URUGUAY"');
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('8,'ZONA DE SLAUD "CENTRO PARANA"');
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('7,'ZONA DE SLAUD "SUR"');
+INSETR INTO "nacer"."zona_sani"(id_zona_sani,nombre_zona) VALUES ('6,'ZONA DE SALUD "CAPITAL"');

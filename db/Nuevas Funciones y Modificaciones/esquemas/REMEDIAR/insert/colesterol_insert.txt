@@ -1,0 +1,6 @@
+INSERT INTO "remediar"."colesterol" (id_colesterol, descripcion1, descripcion2, puntaje, cual) VALUES (1, 'medido colesterol', 'Si', 0, 4);
+INSERT INTO "remediar"."colesterol" (id_colesterol, descripcion1, descripcion2, puntaje, cual) VALUES (2, 'medido colesterol', 'No', 1, 4);
+INSERT INTO "remediar"."colesterol" (id_colesterol, descripcion1, descripcion2, puntaje, cual) VALUES (3, 'tenia colesterol', 'Si', 2, 5);
+INSERT INTO "remediar"."colesterol" (id_colesterol, descripcion1, descripcion2, puntaje, cual) VALUES (4, 'tenia colesterol', 'No', 0, 5);
+
+

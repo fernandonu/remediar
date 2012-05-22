@@ -1,0 +1,9 @@
+CREATE TABLE "sistema"."funciones" (
+"idfuncion" int4 NOT NULL,
+"nombre" varchar(50),
+"descripcion" varchar(100),
+"accion" varchar(415),
+"habilitado" char(1),
+"pagina" varchar(50),
+CONSTRAINT "funciones_pkey" PRIMARY KEY ("idfuncion")
+)

@@ -1,0 +1,1 @@
+insert into uad.categorias (id_categoria,categoria,tipo_ficha) values (7,'Remdiar + Redes','0')

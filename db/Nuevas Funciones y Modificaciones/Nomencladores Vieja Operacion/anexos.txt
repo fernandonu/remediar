@@ -1,0 +1,879 @@
+numero	prueba	categoria	precio	id_nomenclador	id_nomenclador_detalle
+0	No Corresponde	0	0		1
+0	No Corresponde	0	0		2
+0	No Corresponde	0	0		3
+0	No Corresponde	0	0		4
+0	No Corresponde	0	0		5
+0	No Corresponde	0	0		6
+0	No Corresponde	0	0		7
+0	No Corresponde	0	0		8
+0	No Corresponde	0	0		9
+0	No Corresponde	0	0		10
+1 	Acidos biliares		10	708	8
+1 	Acidos biliares		10	709	9
+1 	Acidos biliares		10	710	10
+1 	Acidos biliares		3	711	1
+1 	Acidos biliares		3	712	2
+1 	Acidos biliares		3	713	3
+1 	Acidos biliares		3	714	4
+1 	Acidos biliares		3	715	5
+1 	Acidos biliares		3	716	6
+1 	Acidos biliares		3	717	7
+1 	Antibiograma micobacterias		15	738	1
+1 	Antibiograma micobacterias		15	739	2
+1 	Antibiograma micobacterias		15	740	3
+1 	Antibiograma micobacterias		15	741	4
+1 	Antibiograma micobacterias		15	742	5
+1 	Antibiograma micobacterias		15	743	6
+1 	Antibiograma micobacterias		15	744	7
+1 	Antibiograma micobacterias		15	745	8
+1 	Antibiograma micobacterias		15	746	9
+1 	Antibiograma micobacterias		15	747	10
+1 	Anticuerpos antitreponemicos		15	718	8
+1 	Anticuerpos antitreponemicos		15	719	9
+1 	Anticuerpos antitreponemicos		15	720	10
+1 	Anticuerpos antitreponemicos		6	721	1
+1 	Anticuerpos antitreponemicos		6	722	2
+1 	Anticuerpos antitreponemicos		6	723	3
+1 	Anticuerpos antitreponemicos		6	724	4
+1 	Anticuerpos antitreponemicos		6	725	5
+1 	Anticuerpos antitreponemicos		6	726	6
+1 	Anticuerpos antitreponemicos		6	727	7
+1 	Bacteriología Directa y cultivo		10	728	1
+1 	Bacteriología Directa y cultivo		10	729	2
+1 	Bacteriología Directa y cultivo		10	730	3
+1 	Bacteriología Directa y cultivo		10	731	4
+1 	Bacteriología Directa y cultivo		10	732	5
+1 	Bacteriología Directa y cultivo		10	733	6
+1 	Bacteriología Directa y cultivo		10	734	7
+1 	Bacteriología Directa y cultivo		15	735	8
+1 	Bacteriología Directa y cultivo		15	736	9
+1 	Bacteriología Directa y cultivo		15	737	10
+10	Colesterol		10	708	8
+10	Colesterol		10	709	9
+10	Colesterol		10	710	10
+10	Colesterol		3	711	1
+10	Colesterol		3	712	2
+10	Colesterol		3	713	3
+10	Colesterol		3	714	4
+10	Colesterol		3	715	5
+10	Colesterol		3	716	6
+10	Colesterol		3	717	7
+10	KPTT		15	718	8
+10	KPTT		15	719	9
+10	KPTT		15	720	10
+10	KPTT		6	721	1
+10	KPTT		6	722	2
+10	KPTT		6	723	3
+10	KPTT		6	724	4
+10	KPTT		6	725	5
+10	KPTT		6	726	6
+10	KPTT		6	727	7
+10	Prolactina		15	738	1
+10	Prolactina		15	739	2
+10	Prolactina		15	740	3
+10	Prolactina		15	741	4
+10	Prolactina		15	742	5
+10	Prolactina		15	743	6
+10	Prolactina		15	744	7
+10	Prolactina		15	745	8
+10	Prolactina		15	746	9
+10	Prolactina		15	747	10
+10	Sub Unidad Beta		15	735	8
+10	Sub Unidad Beta		15	736	9
+10	Sub Unidad Beta		15	737	10
+11	Creatinina en orina		10	708	8
+11	Creatinina en orina		10	709	9
+11	Creatinina en orina		10	710	10
+11	Creatinina en orina		3	711	1
+11	Creatinina en orina		3	712	2
+11	Creatinina en orina		3	713	3
+11	Creatinina en orina		3	714	4
+11	Creatinina en orina		3	715	5
+11	Creatinina en orina		3	716	6
+11	Creatinina en orina		3	717	7
+11	IFI y Hemoaglutinación Directa para Chagas		15	718	8
+11	IFI y Hemoaglutinación Directa para Chagas		15	719	9
+11	IFI y Hemoaglutinación Directa para Chagas		15	720	10
+11	IFI y Hemoaglutinación Directa para Chagas		6	721	1
+11	IFI y Hemoaglutinación Directa para Chagas		6	722	2
+11	IFI y Hemoaglutinación Directa para Chagas		6	723	3
+11	IFI y Hemoaglutinación Directa para Chagas		6	724	4
+11	IFI y Hemoaglutinación Directa para Chagas		6	725	5
+11	IFI y Hemoaglutinación Directa para Chagas		6	726	6
+11	IFI y Hemoaglutinación Directa para Chagas		6	727	7
+11	Progesterona		15	738	1
+11	Progesterona		15	739	2
+11	Progesterona		15	740	3
+11	Progesterona		15	741	4
+11	Progesterona		15	742	5
+11	Progesterona		15	743	6
+11	Progesterona		15	744	7
+11	Progesterona		15	745	8
+11	Progesterona		15	746	9
+11	Progesterona		15	747	10
+11	Urocultivo		15	735	8
+11	Urocultivo		15	736	9
+11	Urocultivo		15	737	10
+12	Creatinina serica		10	708	8
+12	Creatinina serica		10	709	9
+12	Creatinina serica		10	710	10
+12	Creatinina serica		3	711	1
+12	Creatinina serica		3	712	2
+12	Creatinina serica		3	713	3
+12	Creatinina serica		3	714	4
+12	Creatinina serica		3	715	5
+12	Creatinina serica		3	716	6
+12	Creatinina serica		3	717	7
+12	Lipidograma Electroforético		15	718	8
+12	Lipidograma Electroforético		15	719	9
+12	Lipidograma Electroforético		15	720	10
+12	Lipidograma Electroforético		6	721	1
+12	Lipidograma Electroforético		6	722	2
+12	Lipidograma Electroforético		6	723	3
+12	Lipidograma Electroforético		6	724	4
+12	Lipidograma Electroforético		6	725	5
+12	Lipidograma Electroforético		6	726	6
+12	Lipidograma Electroforético		6	727	7
+12	Serología para Hepatitis A total		15	738	1
+12	Serología para Hepatitis A total		15	739	2
+12	Serología para Hepatitis A total		15	740	3
+12	Serología para Hepatitis A total		15	741	4
+12	Serología para Hepatitis A total		15	742	5
+12	Serología para Hepatitis A total		15	743	6
+12	Serología para Hepatitis A total		15	744	7
+12	Serología para Hepatitis A total		15	745	8
+12	Serología para Hepatitis A total		15	746	9
+12	Serología para Hepatitis A total		15	747	10
+13	Cultivo vaginal Exudado flujo		10	708	8
+13	Cultivo vaginal Exudado flujo		10	709	9
+13	Cultivo vaginal Exudado flujo		10	710	10
+13	Cultivo vaginal Exudado flujo		3	711	1
+13	Cultivo vaginal Exudado flujo		3	712	2
+13	Cultivo vaginal Exudado flujo		3	713	3
+13	Cultivo vaginal Exudado flujo		3	714	4
+13	Cultivo vaginal Exudado flujo		3	715	5
+13	Cultivo vaginal Exudado flujo		3	716	6
+13	Cultivo vaginal Exudado flujo		3	717	7
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		15	718	8
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		15	719	9
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		15	720	10
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	721	1
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	722	2
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	723	3
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	724	4
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	725	5
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	726	6
+13	Líquido cefaloraquídeo citoquímico y bacteriológico		6	727	7
+13	Serología para Hepatitis A Ig M		15	738	1
+13	Serología para Hepatitis A Ig M		15	739	2
+13	Serología para Hepatitis A Ig M		15	740	3
+13	Serología para Hepatitis A Ig M		15	741	4
+13	Serología para Hepatitis A Ig M		15	742	5
+13	Serología para Hepatitis A Ig M		15	743	6
+13	Serología para Hepatitis A Ig M		15	744	7
+13	Serología para Hepatitis A Ig M		15	745	8
+13	Serología para Hepatitis A Ig M		15	746	9
+13	Serología para Hepatitis A Ig M		15	747	10
+14	Electroforesis de proteínas		10	708	8
+14	Electroforesis de proteínas		10	709	9
+14	Electroforesis de proteínas		10	710	10
+14	Electroforesis de proteínas		3	711	1
+14	Electroforesis de proteínas		3	712	2
+14	Electroforesis de proteínas		3	713	3
+14	Electroforesis de proteínas		3	714	4
+14	Electroforesis de proteínas		3	715	5
+14	Electroforesis de proteínas		3	716	6
+14	Electroforesis de proteínas		3	717	7
+14	Prueba de Coombs indirecta cuantitativa		15	718	8
+14	Prueba de Coombs indirecta cuantitativa		15	719	9
+14	Prueba de Coombs indirecta cuantitativa		15	720	10
+14	Prueba de Coombs indirecta cuantitativa		6	721	1
+14	Prueba de Coombs indirecta cuantitativa		6	722	2
+14	Prueba de Coombs indirecta cuantitativa		6	723	3
+14	Prueba de Coombs indirecta cuantitativa		6	724	4
+14	Prueba de Coombs indirecta cuantitativa		6	725	5
+14	Prueba de Coombs indirecta cuantitativa		6	726	6
+14	Prueba de Coombs indirecta cuantitativa		6	727	7
+14	Serología para Rubeola Ig M		15	745	8
+14	Serología para Rubeola Ig M		15	746	9
+14	Serología para Rubeola Ig M		15	747	10
+15	Eritrosedimentación		10	708	8
+15	Eritrosedimentación		10	709	9
+15	Eritrosedimentación		10	710	10
+15	Eritrosedimentación		3	711	1
+15	Eritrosedimentación		3	712	2
+15	Eritrosedimentación		3	713	3
+15	Eritrosedimentación		3	714	4
+15	Eritrosedimentación		3	715	5
+15	Eritrosedimentación		3	716	6
+15	Eritrosedimentación		3	717	7
+15	Serología para Chagas (Elisa)		15	718	8
+15	Serología para Chagas (Elisa)		15	719	9
+15	Serología para Chagas (Elisa)		15	720	10
+15	Serología para Chagas (Elisa)		6	721	1
+15	Serología para Chagas (Elisa)		6	722	2
+15	Serología para Chagas (Elisa)		6	723	3
+15	Serología para Chagas (Elisa)		6	724	4
+15	Serología para Chagas (Elisa)		6	725	5
+15	Serología para Chagas (Elisa)		6	726	6
+15	Serología para Chagas (Elisa)		6	727	7
+15	T3		15	745	8
+15	T3		15	746	9
+15	T3		15	747	10
+16	Estado Acido Base		10	708	8
+16	Estado Acido Base		10	709	9
+16	Estado Acido Base		10	710	10
+16	Estado Acido Base		3	711	1
+16	Estado Acido Base		3	712	2
+16	Estado Acido Base		3	713	3
+16	Estado Acido Base		3	714	4
+16	Estado Acido Base		3	715	5
+16	Estado Acido Base		3	716	6
+16	Estado Acido Base		3	717	7
+16	T4 libre		15	745	8
+16	T4 libre		15	746	9
+16	T4 libre		15	747	10
+16	Test de latex		15	718	8
+16	Test de latex		15	719	9
+16	Test de latex		15	720	10
+16	Test de latex		6	721	1
+16	Test de latex		6	722	2
+16	Test de latex		6	723	3
+16	Test de latex		6	724	4
+16	Test de latex		6	725	5
+16	Test de latex		6	726	6
+16	Test de latex		6	727	7
+17	Factor de coagulación 5, 7, 8, 9 y 10		10	708	8
+17	Factor de coagulación 5, 7, 8, 9 y 10		10	709	9
+17	Factor de coagulación 5, 7, 8, 9 y 10		10	710	10
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	711	1
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	712	2
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	713	3
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	714	4
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	715	5
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	716	6
+17	Factor de coagulación 5, 7, 8, 9 y 10		3	717	7
+17	Toxoplasmosis por IFI		15	745	8
+17	Toxoplasmosis por IFI		15	746	9
+17	Toxoplasmosis por IFI		15	747	10
+17	Toxoplasmosis por IFI o MEIA		15	718	8
+17	Toxoplasmosis por IFI o MEIA		15	719	9
+17	Toxoplasmosis por IFI o MEIA		15	720	10
+18	Fenilalanina		10	708	8
+18	Fenilalanina		10	709	9
+18	Fenilalanina		10	710	10
+18	Fenilalanina		3	711	1
+18	Fenilalanina		3	712	2
+18	Fenilalanina		3	713	3
+18	Fenilalanina		3	714	4
+18	Fenilalanina		3	715	5
+18	Fenilalanina		3	716	6
+18	Fenilalanina		3	717	7
+18	Transferrinas		15	745	8
+18	Transferrinas		15	746	9
+18	Transferrinas		15	747	10
+18	VDRL		15	718	8
+18	VDRL		15	719	9
+18	VDRL		15	720	10
+19	Cultivo Streptococo B hemolitico		15	718	8
+19	Cultivo Streptococo B hemolitico		15	719	9
+19	Cultivo Streptococo B hemolitico		15	720	10
+19	Fenilcetonuria		10	708	8
+19	Fenilcetonuria		10	709	9
+19	Fenilcetonuria		10	710	10
+19	Fenilcetonuria		3	711	1
+19	Fenilcetonuria		3	712	2
+19	Fenilcetonuria		3	713	3
+19	Fenilcetonuria		3	714	4
+19	Fenilcetonuria		3	715	5
+19	Fenilcetonuria		3	716	6
+19	Fenilcetonuria		3	717	7
+19	TSH		15	745	8
+19	TSH		15	746	9
+19	TSH		15	747	10
+2 	Acido Urico		10	708	8
+2 	Acido Urico		10	709	9
+2 	Acido Urico		10	710	10
+2 	Acido Urico		3	711	1
+2 	Acido Urico		3	712	2
+2 	Acido Urico		3	713	3
+2 	Acido Urico		3	714	4
+2 	Acido Urico		3	715	5
+2 	Acido Urico		3	716	6
+2 	Acido Urico		3	717	7
+2 	Amilasa  Pancreática		15	718	8
+2 	Amilasa  Pancreática		15	719	9
+2 	Amilasa  Pancreática		15	720	10
+2 	Amilasa  Pancreática		6	721	1
+2 	Amilasa  Pancreática		6	722	2
+2 	Amilasa  Pancreática		6	723	3
+2 	Amilasa  Pancreática		6	724	4
+2 	Amilasa  Pancreática		6	725	5
+2 	Amilasa  Pancreática		6	726	6
+2 	Amilasa  Pancreática		6	727	7
+2 	Ferritina		10	728	1
+2 	Ferritina		10	729	2
+2 	Ferritina		10	730	3
+2 	Ferritina		10	731	4
+2 	Ferritina		10	732	5
+2 	Ferritina		10	733	6
+2 	Ferritina		10	734	7
+2 	Ferritina		15	735	8
+2 	Ferritina		15	736	9
+2 	Ferritina		15	737	10
+2 	IFI Infecciones respiratorias		15	738	1
+2 	IFI Infecciones respiratorias		15	739	2
+2 	IFI Infecciones respiratorias		15	740	3
+2 	IFI Infecciones respiratorias		15	741	4
+2 	IFI Infecciones respiratorias		15	742	5
+2 	IFI Infecciones respiratorias		15	743	6
+2 	IFI Infecciones respiratorias		15	744	7
+2 	IFI Infecciones respiratorias		15	745	8
+2 	IFI Infecciones respiratorias		15	746	9
+2 	IFI Infecciones respiratorias		15	747	10
+20	Ferremia		10	708	8
+20	Ferremia		10	709	9
+20	Ferremia		10	710	10
+20	Ferremia		3	711	1
+20	Ferremia		3	712	2
+20	Ferremia		3	713	3
+20	Ferremia		3	714	4
+20	Ferremia		3	715	5
+20	Ferremia		3	716	6
+20	Ferremia		3	717	7
+20	Vibrio Cholerae Cultivo e Identificación		15	745	8
+20	Vibrio Cholerae Cultivo e Identificación		15	746	9
+20	Vibrio Cholerae Cultivo e Identificación		15	747	10
+21	Fosfatasa alcalina y ácida		10	708	8
+21	Fosfatasa alcalina y ácida		10	709	9
+21	Fosfatasa alcalina y ácida		10	710	10
+21	Fosfatasa alcalina y ácida		3	711	1
+21	Fosfatasa alcalina y ácida		3	712	2
+21	Fosfatasa alcalina y ácida		3	713	3
+21	Fosfatasa alcalina y ácida		3	714	4
+21	Fosfatasa alcalina y ácida		3	715	5
+21	Fosfatasa alcalina y ácida		3	716	6
+21	Fosfatasa alcalina y ácida		3	717	7
+21	VIH  Elisa		15	745	8
+21	VIH  Elisa		15	746	9
+21	VIH  Elisa		15	747	10
+22	Galactosemia		10	708	8
+22	Galactosemia		10	709	9
+22	Galactosemia		10	710	10
+22	Galactosemia		3	711	1
+22	Galactosemia		3	712	2
+22	Galactosemia		3	713	3
+22	Galactosemia		3	714	4
+22	Galactosemia		3	715	5
+22	Galactosemia		3	716	6
+22	Galactosemia		3	717	7
+23	Gamma- GT (gamma glutamil transpeptidasa)		10	708	8
+23	Gamma- GT (gamma glutamil transpeptidasa)		10	709	9
+23	Gamma- GT (gamma glutamil transpeptidasa)		10	710	10
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	711	1
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	712	2
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	713	3
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	714	4
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	715	5
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	716	6
+23	Gamma- GT (gamma glutamil transpeptidasa)		3	717	7
+24	Glicemia		10	708	8
+24	Glicemia		10	709	9
+24	Glicemia		10	710	10
+24	Glicemia		3	711	1
+24	Glicemia		3	712	2
+24	Glicemia		3	713	3
+24	Glicemia		3	714	4
+24	Glicemia		3	715	5
+24	Glicemia		3	716	6
+24	Glicemia		3	717	7
+25	Glucosuria		10	708	8
+25	Glucosuria		10	709	9
+25	Glucosuria		10	710	10
+25	Glucosuria		3	711	1
+25	Glucosuria		3	712	2
+25	Glucosuria		3	713	3
+25	Glucosuria		3	714	4
+25	Glucosuria		3	715	5
+25	Glucosuria		3	716	6
+25	Glucosuria		3	717	7
+26	Gonadotrofina coriónica humana		10	708	8
+26	Gonadotrofina coriónica humana		10	709	9
+26	Gonadotrofina coriónica humana		10	710	10
+26	Gonadotrofina coriónica humana		3	711	1
+26	Gonadotrofina coriónica humana		3	712	2
+26	Gonadotrofina coriónica humana		3	713	3
+26	Gonadotrofina coriónica humana		3	714	4
+26	Gonadotrofina coriónica humana		3	715	5
+26	Gonadotrofina coriónica humana		3	716	6
+26	Gonadotrofina coriónica humana		3	717	7
+27	Grasas en material fecal cualitativa		10	708	8
+27	Grasas en material fecal cualitativa		10	709	9
+27	Grasas en material fecal cualitativa		10	710	10
+27	Grasas en material fecal cualitativa		3	711	1
+27	Grasas en material fecal cualitativa		3	712	2
+27	Grasas en material fecal cualitativa		3	713	3
+27	Grasas en material fecal cualitativa		3	714	4
+27	Grasas en material fecal cualitativa		3	715	5
+27	Grasas en material fecal cualitativa		3	716	6
+27	Grasas en material fecal cualitativa		3	717	7
+28	Grupo y factor		10	708	8
+28	Grupo y factor		10	709	9
+28	Grupo y factor		10	710	10
+28	Grupo y factor		3	711	1
+28	Grupo y factor		3	712	2
+28	Grupo y factor		3	713	3
+28	Grupo y factor		3	714	4
+28	Grupo y factor		3	715	5
+28	Grupo y factor		3	716	6
+28	Grupo y factor		3	717	7
+29	HDL y LDL		10	708	8
+29	HDL y LDL		10	709	9
+29	HDL y LDL		10	710	10
+29	HDL y LDL		3	711	1
+29	HDL y LDL		3	712	2
+29	HDL y LDL		3	713	3
+29	HDL y LDL		3	714	4
+29	HDL y LDL		3	715	5
+29	HDL y LDL		3	716	6
+29	HDL y LDL		3	717	7
+3 	ASTO		15	718	8
+3 	ASTO		15	719	9
+3 	ASTO		15	720	10
+3 	ASTO		6	721	1
+3 	ASTO		6	722	2
+3 	ASTO		6	723	3
+3 	ASTO		6	724	4
+3 	ASTO		6	725	5
+3 	ASTO		6	726	6
+3 	ASTO		6	727	7
+3 	Baciloscopía		10	708	8
+3 	Baciloscopía		10	709	9
+3 	Baciloscopía		10	710	10
+3 	Baciloscopía		3	711	1
+3 	Baciloscopía		3	712	2
+3 	Baciloscopía		3	713	3
+3 	Baciloscopía		3	714	4
+3 	Baciloscopía		3	715	5
+3 	Baciloscopía		3	716	6
+3 	Baciloscopía		3	717	7
+3 	Coprocultivo		15	738	1
+3 	Coprocultivo		15	739	2
+3 	Coprocultivo		15	740	3
+3 	Coprocultivo		15	741	4
+3 	Coprocultivo		15	742	5
+3 	Coprocultivo		15	743	6
+3 	Coprocultivo		15	744	7
+3 	Coprocultivo		15	745	8
+3 	Coprocultivo		15	746	9
+3 	Coprocultivo		15	747	10
+3 	Hemoglobina glicosilada		10	728	1
+3 	Hemoglobina glicosilada		10	729	2
+3 	Hemoglobina glicosilada		10	730	3
+3 	Hemoglobina glicosilada		10	731	4
+3 	Hemoglobina glicosilada		10	732	5
+3 	Hemoglobina glicosilada		10	733	6
+3 	Hemoglobina glicosilada		10	734	7
+3 	Hemoglobina glicosilada		15	735	8
+3 	Hemoglobina glicosilada		15	736	9
+3 	Hemoglobina glicosilada		15	737	10
+30	Hematocrito		10	708	8
+30	Hematocrito		10	709	9
+30	Hematocrito		10	710	10
+30	Hematocrito		3	711	1
+30	Hematocrito		3	712	2
+30	Hematocrito		3	713	3
+30	Hematocrito		3	714	4
+30	Hematocrito		3	715	5
+30	Hematocrito		3	716	6
+30	Hematocrito		3	717	7
+31	Hemoglobina		10	708	8
+31	Hemoglobina		10	709	9
+31	Hemoglobina		10	710	10
+31	Hemoglobina		3	711	1
+31	Hemoglobina		3	712	2
+31	Hemoglobina		3	713	3
+31	Hemoglobina		3	714	4
+31	Hemoglobina		3	715	5
+31	Hemoglobina		3	716	6
+31	Hemoglobina		3	717	7
+32	Hemograma completo		10	708	8
+32	Hemograma completo		10	709	9
+32	Hemograma completo		10	710	10
+32	Hemograma completo		3	711	1
+32	Hemograma completo		3	712	2
+32	Hemograma completo		3	713	3
+32	Hemograma completo		3	714	4
+32	Hemograma completo		3	715	5
+32	Hemograma completo		3	716	6
+32	Hemograma completo		3	717	7
+33	Hidatidosis por hemoaglutinación		10	708	8
+33	Hidatidosis por hemoaglutinación		10	709	9
+33	Hidatidosis por hemoaglutinación		10	710	10
+33	Hidatidosis por hemoaglutinación		3	711	1
+33	Hidatidosis por hemoaglutinación		3	712	2
+33	Hidatidosis por hemoaglutinación		3	713	3
+33	Hidatidosis por hemoaglutinación		3	714	4
+33	Hidatidosis por hemoaglutinación		3	715	5
+33	Hidatidosis por hemoaglutinación		3	716	6
+33	Hidatidosis por hemoaglutinación		3	717	7
+34	17 Hidroxiprogesterona		10	708	8
+34	17 Hidroxiprogesterona		10	709	9
+34	17 Hidroxiprogesterona		10	710	10
+34	17 Hidroxiprogesterona		3	711	1
+34	17 Hidroxiprogesterona		3	712	2
+34	17 Hidroxiprogesterona		3	713	3
+34	17 Hidroxiprogesterona		3	714	4
+34	17 Hidroxiprogesterona		3	715	5
+34	17 Hidroxiprogesterona		3	716	6
+34	17 Hidroxiprogesterona		3	717	7
+35	Leucocitos en material fecal		10	708	8
+35	Leucocitos en material fecal		10	709	9
+35	Leucocitos en material fecal		10	710	10
+35	Leucocitos en material fecal		3	711	1
+35	Leucocitos en material fecal		3	712	2
+35	Leucocitos en material fecal		3	713	3
+35	Leucocitos en material fecal		3	714	4
+35	Leucocitos en material fecal		3	715	5
+35	Leucocitos en material fecal		3	716	6
+35	Leucocitos en material fecal		3	717	7
+36	LDH		10	708	8
+36	LDH		10	709	9
+36	LDH		10	710	10
+36	LDH		3	711	1
+36	LDH		3	712	2
+36	LDH		3	713	3
+36	LDH		3	714	4
+36	LDH		3	715	5
+36	LDH		3	716	6
+36	LDH		3	717	7
+37	Orina Completa		10	708	8
+37	Orina Completa		10	709	9
+37	Orina Completa		10	710	10
+37	Orina Completa		3	711	1
+37	Orina Completa		3	712	2
+37	Orina Completa		3	713	3
+37	Orina Completa		3	714	4
+37	Orina Completa		3	715	5
+37	Orina Completa		3	716	6
+37	Orina Completa		3	717	7
+38	Parasitologico de Materia Fecal		10	708	8
+38	Parasitologico de Materia Fecal		10	709	9
+38	Parasitologico de Materia Fecal		10	710	10
+38	Parasitologico de Materia Fecal		3	711	1
+38	Parasitologico de Materia Fecal		3	712	2
+38	Parasitologico de Materia Fecal		3	713	3
+38	Parasitologico de Materia Fecal		3	714	4
+38	Parasitologico de Materia Fecal		3	715	5
+38	Parasitologico de Materia Fecal		3	716	6
+38	Parasitologico de Materia Fecal		3	717	7
+39	PH en materia fecal		10	708	8
+39	PH en materia fecal		10	709	9
+39	PH en materia fecal		10	710	10
+39	PH en materia fecal		3	711	1
+39	PH en materia fecal		3	712	2
+39	PH en materia fecal		3	713	3
+39	PH en materia fecal		3	714	4
+39	PH en materia fecal		3	715	5
+39	PH en materia fecal		3	716	6
+39	PH en materia fecal		3	717	7
+4 	Bilirrubinas totales y fraccionadas		10	708	8
+4 	Bilirrubinas totales y fraccionadas		10	709	9
+4 	Bilirrubinas totales y fraccionadas		10	710	10
+4 	Bilirrubinas totales y fraccionadas		3	711	1
+4 	Bilirrubinas totales y fraccionadas		3	712	2
+4 	Bilirrubinas totales y fraccionadas		3	713	3
+4 	Bilirrubinas totales y fraccionadas		3	714	4
+4 	Bilirrubinas totales y fraccionadas		3	715	5
+4 	Bilirrubinas totales y fraccionadas		3	716	6
+4 	Bilirrubinas totales y fraccionadas		3	717	7
+4 	CPK		15	718	8
+4 	CPK		15	719	9
+4 	CPK		15	720	10
+4 	CPK		6	721	1
+4 	CPK		6	722	2
+4 	CPK		6	723	3
+4 	CPK		6	724	4
+4 	CPK		6	725	5
+4 	CPK		6	726	6
+4 	CPK		6	727	7
+4 	Esputo seriado		15	738	1
+4 	Esputo seriado		15	739	2
+4 	Esputo seriado		15	740	3
+4 	Esputo seriado		15	741	4
+4 	Esputo seriado		15	742	5
+4 	Esputo seriado		15	743	6
+4 	Esputo seriado		15	744	7
+4 	Esputo seriado		15	745	8
+4 	Esputo seriado		15	746	9
+4 	Esputo seriado		15	747	10
+4 	Hepatitis B anti HBS Anticore total		10	728	1
+4 	Hepatitis B anti HBS Anticore total		10	729	2
+4 	Hepatitis B anti HBS Anticore total		10	730	3
+4 	Hepatitis B anti HBS Anticore total		10	731	4
+4 	Hepatitis B anti HBS Anticore total		10	732	5
+4 	Hepatitis B anti HBS Anticore total		10	733	6
+4 	Hepatitis B anti HBS Anticore total		10	734	7
+4 	Hepatitis B anti HBS Anticore total		15	735	8
+4 	Hepatitis B anti HBS Anticore total		15	736	9
+4 	Hepatitis B anti HBS Anticore total		15	737	10
+40	PPD		10	708	8
+40	PPD		10	709	9
+40	PPD		10	710	10
+40	PPD		3	711	1
+40	PPD		3	712	2
+40	PPD		3	713	3
+40	PPD		3	714	4
+40	PPD		3	715	5
+40	PPD		3	716	6
+40	PPD		3	717	7
+41	Proteínas totales y fraccionadas		10	708	8
+41	Proteínas totales y fraccionadas		10	709	9
+41	Proteínas totales y fraccionadas		10	710	10
+41	Proteínas totales y fraccionadas		3	711	1
+41	Proteínas totales y fraccionadas		3	712	2
+41	Proteínas totales y fraccionadas		3	713	3
+41	Proteínas totales y fraccionadas		3	714	4
+41	Proteínas totales y fraccionadas		3	715	5
+41	Proteínas totales y fraccionadas		3	716	6
+41	Proteínas totales y fraccionadas		3	717	7
+42	Proteinuria		10	708	8
+42	Proteinuria		10	709	9
+42	Proteinuria		10	710	10
+42	Proteinuria		3	711	1
+42	Proteinuria		3	712	2
+42	Proteinuria		3	713	3
+42	Proteinuria		3	714	4
+42	Proteinuria		3	715	5
+42	Proteinuria		3	716	6
+42	Proteinuria		3	717	7
+43	Proteína C Reactiva		10	708	8
+43	Proteína C Reactiva		10	709	9
+43	Proteína C Reactiva		10	710	10
+43	Proteína C Reactiva		3	711	1
+43	Proteína C Reactiva		3	712	2
+43	Proteína C Reactiva		3	713	3
+43	Proteína C Reactiva		3	714	4
+43	Proteína C Reactiva		3	715	5
+43	Proteína C Reactiva		3	716	6
+43	Proteína C Reactiva		3	717	7
+44	Prueba de Coombs Directa		10	708	8
+44	Prueba de Coombs Directa		10	709	9
+44	Prueba de Coombs Directa		10	710	10
+44	Prueba de Coombs Directa		3	711	1
+44	Prueba de Coombs Directa		3	712	2
+44	Prueba de Coombs Directa		3	713	3
+44	Prueba de Coombs Directa		3	714	4
+44	Prueba de Coombs Directa		3	715	5
+44	Prueba de Coombs Directa		3	716	6
+44	Prueba de Coombs Directa		3	717	7
+45	Reacción de Hudleson		10	708	8
+45	Reacción de Hudleson		10	709	9
+45	Reacción de Hudleson		10	710	10
+46	Reacción de Widal		10	708	8
+46	Reacción de Widal		10	709	9
+46	Reacción de Widal		10	710	10
+47	Sangre oculta en heces		10	708	8
+47	Sangre oculta en heces		10	709	9
+47	Sangre oculta en heces		10	710	10
+48	Test de Graham		10	708	8
+48	Test de Graham		10	709	9
+48	Test de Graham		10	710	10
+49	Tiempo de coagulación y sangría		10	708	8
+49	Tiempo de coagulación y sangría		10	709	9
+49	Tiempo de coagulación y sangría		10	710	10
+5 	Biotinidasa neonatal		10	708	8
+5 	Biotinidasa neonatal		10	709	9
+5 	Biotinidasa neonatal		10	710	10
+5 	Biotinidasa neonatal		3	711	1
+5 	Biotinidasa neonatal		3	712	2
+5 	Biotinidasa neonatal		3	713	3
+5 	Biotinidasa neonatal		3	714	4
+5 	Biotinidasa neonatal		3	715	5
+5 	Biotinidasa neonatal		3	716	6
+5 	Biotinidasa neonatal		3	717	7
+5 	Cuantificación fibrinogeno		15	718	8
+5 	Cuantificación fibrinogeno		15	719	9
+5 	Cuantificación fibrinogeno		15	720	10
+5 	Cuantificación fibrinogeno		6	721	1
+5 	Cuantificación fibrinogeno		6	722	2
+5 	Cuantificación fibrinogeno		6	723	3
+5 	Cuantificación fibrinogeno		6	724	4
+5 	Cuantificación fibrinogeno		6	725	5
+5 	Cuantificación fibrinogeno		6	726	6
+5 	Cuantificación fibrinogeno		6	727	7
+5 	FSH		15	738	1
+5 	FSH		15	739	2
+5 	FSH		15	740	3
+5 	FSH		15	741	4
+5 	FSH		15	742	5
+5 	FSH		15	743	6
+5 	FSH		15	744	7
+5 	FSH		15	745	8
+5 	FSH		15	746	9
+5 	FSH		15	747	10
+5 	Micológico		10	728	1
+5 	Micológico		10	729	2
+5 	Micológico		10	730	3
+5 	Micológico		10	731	4
+5 	Micológico		10	732	5
+5 	Micológico		10	733	6
+5 	Micológico		10	734	7
+5 	Micológico		15	735	8
+5 	Micológico		15	736	9
+5 	Micológico		15	737	10
+50	Tiempo de protombina		10	708	8
+50	Tiempo de protombina		10	709	9
+50	Tiempo de protombina		10	710	10
+51	Transaminasas  TGO/TGP		10	708	8
+51	Transaminasas  TGO/TGP		10	709	9
+51	Transaminasas  TGO/TGP		10	710	10
+52	Triglicéridos		10	708	8
+52	Triglicéridos		10	709	9
+52	Triglicéridos		10	710	10
+53	Tripsina catiónica inmunorreactiva		10	708	8
+53	Tripsina catiónica inmunorreactiva		10	709	9
+53	Tripsina catiónica inmunorreactiva		10	710	10
+54	Urea		10	708	8
+54	Urea		10	709	9
+54	Urea		10	710	10
+6 	Calcemia		10	708	8
+6 	Calcemia		10	709	9
+6 	Calcemia		10	710	10
+6 	Calcemia		3	711	1
+6 	Calcemia		3	712	2
+6 	Calcemia		3	713	3
+6 	Calcemia		3	714	4
+6 	Calcemia		3	715	5
+6 	Calcemia		3	716	6
+6 	Calcemia		3	717	7
+6 	Cultivo y Antibiograma General		15	718	8
+6 	Cultivo y Antibiograma General		15	719	9
+6 	Cultivo y Antibiograma General		15	720	10
+6 	Cultivo y Antibiograma General		6	721	1
+6 	Cultivo y Antibiograma General		6	722	2
+6 	Cultivo y Antibiograma General		6	723	3
+6 	Cultivo y Antibiograma General		6	724	4
+6 	Cultivo y Antibiograma General		6	725	5
+6 	Cultivo y Antibiograma General		6	726	6
+6 	Cultivo y Antibiograma General		6	727	7
+6 	Hepatograma		15	738	1
+6 	Hepatograma		15	739	2
+6 	Hepatograma		15	740	3
+6 	Hepatograma		15	741	4
+6 	Hepatograma		15	742	5
+6 	Hepatograma		15	743	6
+6 	Hepatograma		15	744	7
+6 	Hepatograma		15	745	8
+6 	Hepatograma		15	746	9
+6 	Hepatograma		15	747	10
+6 	Monotest		10	728	1
+6 	Monotest		10	729	2
+6 	Monotest		10	730	3
+6 	Monotest		10	731	4
+6 	Monotest		10	732	5
+6 	Monotest		10	733	6
+6 	Monotest		10	734	7
+6 	Monotest		15	735	8
+6 	Monotest		15	736	9
+6 	Monotest		15	737	10
+7 	Calciuria		10	708	8
+7 	Calciuria		10	709	9
+7 	Calciuria		10	710	10
+7 	Calciuria		3	711	1
+7 	Calciuria		3	712	2
+7 	Calciuria		3	713	3
+7 	Calciuria		3	714	4
+7 	Calciuria		3	715	5
+7 	Calciuria		3	716	6
+7 	Calciuria		3	717	7
+7 	Hbs Ag		15	718	8
+7 	Hbs Ag		15	719	9
+7 	Hbs Ag		15	720	10
+7 	Hbs Ag		6	721	1
+7 	Hbs Ag		6	722	2
+7 	Hbs Ag		6	723	3
+7 	Hbs Ag		6	724	4
+7 	Hbs Ag		6	725	5
+7 	Hbs Ag		6	726	6
+7 	Hbs Ag		6	727	7
+7 	Hidatidosis por IFI		15	738	1
+7 	Hidatidosis por IFI		15	739	2
+7 	Hidatidosis por IFI		15	740	3
+7 	Hidatidosis por IFI		15	741	4
+7 	Hidatidosis por IFI		15	742	5
+7 	Hidatidosis por IFI		15	743	6
+7 	Hidatidosis por IFI		15	744	7
+7 	Hidatidosis por IFI		15	745	8
+7 	Hidatidosis por IFI		15	746	9
+7 	Hidatidosis por IFI		15	747	10
+7 	Parasitemia para Chagas		15	735	8
+7 	Parasitemia para Chagas		15	736	9
+7 	Parasitemia para Chagas		15	737	10
+8 	Campo Oscuro		10	708	8
+8 	Campo Oscuro		10	709	9
+8 	Campo Oscuro		10	710	10
+8 	Campo Oscuro		3	711	1
+8 	Campo Oscuro		3	712	2
+8 	Campo Oscuro		3	713	3
+8 	Campo Oscuro		3	714	4
+8 	Campo Oscuro		3	715	5
+8 	Campo Oscuro		3	716	6
+8 	Campo Oscuro		3	717	7
+8 	Hemocultivo Aerobio Anaerobio		15	718	8
+8 	Hemocultivo Aerobio Anaerobio		15	719	9
+8 	Hemocultivo Aerobio Anaerobio		15	720	10
+8 	Hemocultivo Aerobio Anaerobio		6	721	1
+8 	Hemocultivo Aerobio Anaerobio		6	722	2
+8 	Hemocultivo Aerobio Anaerobio		6	723	3
+8 	Hemocultivo Aerobio Anaerobio		6	724	4
+8 	Hemocultivo Aerobio Anaerobio		6	725	5
+8 	Hemocultivo Aerobio Anaerobio		6	726	6
+8 	Hemocultivo Aerobio Anaerobio		6	727	7
+8 	Hisopado de fauces		15	738	1
+8 	Hisopado de fauces		15	739	2
+8 	Hisopado de fauces		15	740	3
+8 	Hisopado de fauces		15	741	4
+8 	Hisopado de fauces		15	742	5
+8 	Hisopado de fauces		15	743	6
+8 	Hisopado de fauces		15	744	7
+8 	Hisopado de fauces		15	745	8
+8 	Hisopado de fauces		15	746	9
+8 	Hisopado de fauces		15	747	10
+8 	Productos de degradación del fibrinogeno (PDF)		15	735	8
+8 	Productos de degradación del fibrinogeno (PDF)		15	736	9
+8 	Productos de degradación del fibrinogeno (PDF)		15	737	10
+9 	Citología		10	708	8
+9 	Citología		10	709	9
+9 	Citología		10	710	10
+9 	Citología		3	711	1
+9 	Citología		3	712	2
+9 	Citología		3	713	3
+9 	Citología		3	714	4
+9 	Citología		3	715	5
+9 	Citología		3	716	6
+9 	Citología		3	717	7
+9 	Ionograma Plamático y Orina		15	718	8
+9 	Ionograma Plamático y Orina		15	719	9
+9 	Ionograma Plamático y Orina		15	720	10
+9 	Ionograma Plamático y Orina		6	721	1
+9 	Ionograma Plamático y Orina		6	722	2
+9 	Ionograma Plamático y Orina		6	723	3
+9 	Ionograma Plamático y Orina		6	724	4
+9 	Ionograma Plamático y Orina		6	725	5
+9 	Ionograma Plamático y Orina		6	726	6
+9 	Ionograma Plamático y Orina		6	727	7
+9 	LH		15	738	1
+9 	LH		15	739	2
+9 	LH		15	740	3
+9 	LH		15	741	4
+9 	LH		15	742	5
+9 	LH		15	743	6
+9 	LH		15	744	7
+9 	LH		15	745	8
+9 	LH		15	746	9
+9 	LH		15	747	10
+9 	Prueba de tolerancia a la glucosa		15	735	8
+9 	Prueba de tolerancia a la glucosa		15	736	9
+9 	Prueba de tolerancia a la glucosa		15	737	10

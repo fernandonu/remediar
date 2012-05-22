@@ -1,0 +1,32 @@
+CREATE TABLE "uad"."localidades" (
+  "codigopostal" TEXT,
+  "nombre" TEXT,
+  "id_localidad" VARCHAR(3) NOT NULL,
+  "id_departamento" VARCHAR(3),
+  "nrozona" VARCHAR(50),
+  "idloc_provincial" INTEGER NOT NULL,
+  CONSTRAINT "localidades_pkey" PRIMARY KEY("idloc_provincial")
+) WITHOUT OIDS;
+
+
+CREATE TABLE "uad"."municipios" (
+  "id_municipio" VARCHAR(3) NOT NULL,
+  "nombre" TEXT,
+  "id_localidad" VARCHAR(3) NOT NULL,
+  "idmuni_provincial" INTEGER NOT NULL,
+  CONSTRAINT "municipios_pkey" PRIMARY KEY("idmuni_provincial")
+) WITHOUT OIDS;
+
+
+
+CREATE TABLE "uad"."barrios" (
+  "id_barrio" SERIAL,
+  "nombre" TEXT,
+  "id_municipio" INTEGER NOT NULL,
+  CONSTRAINT "barrios_pkey" PRIMARY KEY("id_barrio"),
+  CONSTRAINT "barrios_fk" FOREIGN KEY ("id_municipio")
+    REFERENCES "uad"."municipios"("idmuni_provincial")
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION
+    NOT DEFERRABLE
+) WITHOUT OIDS;

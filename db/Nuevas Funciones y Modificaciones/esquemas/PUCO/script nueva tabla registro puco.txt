@@ -1,0 +1,18 @@
+CREATE SEQUENCE puco.registro_puco_id_reg_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 1
+  CACHE 1;
+ALTER TABLE puco.registro_puco_id_reg_seq OWNER TO projekt;
+
+
+CREATE TABLE "puco"."registro_puco" (
+"id_reg" int8 DEFAULT nextval('"puco".registro_puco_id_reg_seq'::regclass) NOT NULL,
+"fecha" timestamp(6) NOT NULL,
+"usuario" varchar(10) NOT NULL,
+"puco" varchar(7) NOT NULL,
+CONSTRAINT "registro_puco_pkey" PRIMARY KEY ("id_reg")
+)
+WITH (OIDS=FALSE)
+;

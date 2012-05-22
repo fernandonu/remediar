@@ -1,0 +1,7 @@
+INSERT INTO "remediar"."hta" (id_hta, descripcion1, puntaje, descripcion2, cual) VALUES (1, 'le tomaron presion arterial', 0, 'Si', 2);
+INSERT INTO "remediar"."hta" (id_hta, descripcion1, puntaje, descripcion2, cual) VALUES (2, 'le tomaron presion arterial', 1, 'No', 2);
+INSERT INTO "remediar"."hta" (id_hta, descripcion1, puntaje, descripcion2, cual) VALUES (3, 'presion alta', 0, 'Ninguno', 3);
+INSERT INTO "remediar"."hta" (id_hta, descripcion1, puntaje, descripcion2, cual) VALUES (4, 'preson alta', 1, '1 vez', 3);
+INSERT INTO "remediar"."hta" (id_hta, descripcion1, puntaje, descripcion2, cual) VALUES (5, 'presion alta', 4, '2 o + veces', 3);
+
+

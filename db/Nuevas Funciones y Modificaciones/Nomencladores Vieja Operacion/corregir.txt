@@ -1,0 +1,27 @@
+MEM 12	MEM 122   	Inactivación de policaries inactivas o incipientes
+NNE 11	NNE 114   	Detección temprana de la hipoacusia en el Recién Nacido
+NNE 11	NNE 114   	Detección temprana de la hipoacusia en el Recién Nacido
+NNE 11	NNE 114   	Detección temprana de la hipoacusia en el Recién Nacido
+NPE 11	NPE 119   	BERA en lactante "NO PASA" con segunda otoemisión
+NPE 11	NPE 118   	Consulta niño con otorrinolaringólogo (en lactante "NO PASA" otoemisiones acusticas/BERA)
+NPE 11	NPE 116   	Internación abreviada Síndrome Bronquial Obstructivo (prehospitalización en ambulatorio)
+NPE 11	NPE 117   	Otoemsión en lactante "NO PASA" con Otoemisión
+NPE 11	NPE 115   	Posta de rehidratación Diarrea aguda en ambulatorio
+NPE 12	NPE 120   	Internación abreviada Síndrome Bronquial Obstructivo (24-48hs internacion en hospital)
+NPE 12	NPE 121   	Internación por neumonía
+(solo vigencia 10)NPE 42	NPE 42 G  	Dopsis aplicada de vacuna en niños de 6 a 24 meses o en niños mayores con factores de riesgo
+(ver que esten las 10 vigencias)NPE 42
+RCM 10	RCM 104   	Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud
+RCM 10	RCM 105   	Carta de derechos de la mujer embarazada indígena
+RCM 10	RCM 106   	Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)
+RCM 10	RCM 108   	Encuentros para promoción de pautas alimentarias
+RCM 10	RCM 109   	Encuentros para promoción de salud sexual y reproductiva
+RCM 10	RCM 107   	Encuentros para promoción del desarrollo infantil
+RCM 10	RCM 103   	Ronda Completa de Agente Sanitario en Población Indígena
+RCM 11	RCM 110   	Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.
+RIM 10	RIM 102   	Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.
+RIM 10	RIM 100   	Rx tórax F y P en mujeres embarazadas
+RIM 10	RIM 101   	Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas
+RTM 11	RTM 111   	Transporte de emergencia del RN
+RTM 11	RTM 112   	Transporte por referencia de zona A de embarazadas y niños menores de 6 años
+RTM 11	RTM 113   	Transporte por referencia de zona B de embarazadas y niños menores de 6 años

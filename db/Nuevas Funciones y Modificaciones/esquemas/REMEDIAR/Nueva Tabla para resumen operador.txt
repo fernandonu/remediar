@@ -1,0 +1,13 @@
+CREATE TABLE "remediar"."resumen_operador" (
+"fecha_carga" char(10),
+"usuario_carga" varchar(100),
+"fr_c_id_mus" int4 DEFAULT 0,
+"fr_s_id_mus" int4 DEFAULT 0,
+"id_s_fr" int4 DEFAULT 0,
+"t_no_env" int4 DEFAULT 0,
+"creador" int4
+)
+WITH (OIDS=FALSE)
+;
+
+ALTER TABLE "remediar"."resumen_operador" OWNER TO "projekt";

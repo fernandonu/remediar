@@ -1,0 +1,8 @@
+CREATE TABLE facturacion.cuatrimestres (
+	cuatrimestre char (1)  NOT NULL ,
+	desde char (5)  NOT NULL ,
+	hasta char (5)  NOT NULL ,
+	limite char (5)  NOT NULL 
+
+) 
+

@@ -1,0 +1,17 @@
+ALTER TABLE facturacion.factura
+   ADD COLUMN nro_fact_offline character(14);
+
+
+ALTER TABLE facturacion.comprobante
+   ADD COLUMN entidad_alta char(2);
+
+ALTER TABLE facturacion.nomenclador
+   ADD COLUMN categoria int;
+
+
+ALTER TABLE facturacion.factura
+   ADD COLUMN ctrl char(1);
+
+
+ALTER TABLE facturacion.recepcion
+   ADD COLUMN fecha_rec date;
