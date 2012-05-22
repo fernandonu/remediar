@@ -1,0 +1,6 @@
+INSERT INTO "remediar"."factores_riesgo" (id_factor, descripcion, puntaje, sexo, edadini, edadfin) VALUES (1, '45 años o menos', 0, 'Masculino', 0, 45);
+INSERT INTO "remediar"."factores_riesgo" (id_factor, descripcion, puntaje, sexo, edadini, edadfin) VALUES (2, 'Mayor de 45 años', 1, 'Masculino', 46, 200);
+INSERT INTO "remediar"."factores_riesgo" (id_factor, descripcion, puntaje, sexo, edadini, edadfin) VALUES (3, '55 años o menos', 0, 'Femenino', 0, 55);
+INSERT INTO "remediar"."factores_riesgo" (id_factor, descripcion, puntaje, sexo, edadini, edadfin) VALUES (4, 'Mayor de 55 años', 1, 'Femenino', 56, 200);
+
+

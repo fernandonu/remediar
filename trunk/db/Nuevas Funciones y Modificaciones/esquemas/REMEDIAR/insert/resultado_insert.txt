@@ -1,0 +1,5 @@
+INSERT INTO "remediar"."resultado" (id_resultado, nivel_riesgo, num_factor, comentario, consulta) VALUES (1, 'Alto', '7 o más', 'Debe tener una consulta en el centro de salud', ' >=7');
+INSERT INTO "remediar"."resultado" (id_resultado, nivel_riesgo, num_factor, comentario, consulta) VALUES (2, 'Moderado', '4 - 6', 'Debe tener una consulta en el centro de salud', ' between 4 and 6'); 
+INSERT INTO "remediar"."resultado" (id_resultado, nivel_riesgo, num_factor, comentario, consulta) VALUES (3, 'Bajo', '0 - 3', 'Debe ser tenido en cuenta para actividades de promoción y prevención', ' between 0 and 3');
+
+

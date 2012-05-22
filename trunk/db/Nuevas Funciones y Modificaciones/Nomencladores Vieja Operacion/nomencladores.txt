@@ -1,0 +1,846 @@
+codigo	grupo	subgrupo	descripcion	precio	tipo_nomenclador	id_nomenclador_detalle
+CME 72	NULL	NULL	Capita Control del Embarazo (incluye prestación MEM 02 Consulta Ulterior de Control Prenatal)	2	NORMAL	1
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	230	NORMAL	6
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	230	NORMAL	7
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	40	NORMAL	2
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	40	NORMAL	3
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	40	NORMAL	4
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	40	NORMAL	5
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	7	NORMAL	1
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	96	NORMAL	8
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	96	NORMAL	9
+CMI 60	COMUNIDAD		Ronda Completa de Agente Sanitario en área rural	96	NORMAL	10
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	20	NORMAL	8
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	20	NORMAL	9
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	20	NORMAL	10
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	2
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	3
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	4
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	5
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	6
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	40	NORMAL	7
+CMI 61	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	8	NORMAL	1
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	10	NORMAL	1
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	10	NORMAL	6
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	10	NORMAL	7
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	30	NORMAL	5
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	35	NORMAL	2
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	35	NORMAL	3
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	35	NORMAL	4
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	50	NORMAL	8
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	50	NORMAL	9
+CMI 62	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	50	NORMAL	10
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	10	NORMAL	1
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	10	NORMAL	2
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	10	NORMAL	3
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	10	NORMAL	4
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	5
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	6
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	7
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	8
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	9
+CMI 63	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	5	NORMAL	10
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	10	NORMAL	1
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	100	NORMAL	2
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	100	NORMAL	3
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	100	NORMAL	4
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	100	NORMAL	5
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	50	NORMAL	6
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	50	NORMAL	7
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	50	NORMAL	8
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	50	NORMAL	9
+CMI 64	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	50	NORMAL	10
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	15	NORMAL	1
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	20	NORMAL	5
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	20	NORMAL	6
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	20	NORMAL	7
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	2
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	3
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	4
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	8
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	9
+CMI 65	COMUNIDAD		Encuentros para promoción del desarrollo infantil	40	NORMAL	10
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	15	NORMAL	1
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	20	NORMAL	5
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	20	NORMAL	6
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	20	NORMAL	7
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	2
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	3
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	4
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	8
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	9
+CMI 66	COMUNIDAD		Encuentros para promoción de pautas alimentarias	40	NORMAL	10
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	15	NORMAL	1
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	20	NORMAL	5
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	20	NORMAL	6
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	20	NORMAL	7
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	2
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	3
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	4
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	8
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	9
+CMI 67	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	40	NORMAL	10
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	10	NORMAL	1
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	10	NORMAL	6
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	10	NORMAL	7
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	20	NORMAL	8
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	20	NORMAL	9
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	20	NORMAL	10
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	30	NORMAL	5
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	35	NORMAL	2
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	35	NORMAL	3
+CMI 68	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	35	NORMAL	4
+CPN 73	NULL	NULL	Capita de Consulta Pediátrica de niños menores de 6 años	2.5	NORMAL	1
+HAM 00	NULL	NULL	Control Antropometrico de programa hambre cero	0	NORMAL	8
+HAM 00	NULL	NULL	Control Antropometrico de programa hambre cero	0	NORMAL	9
+HAM 00	NULL	NULL	Control Antropometrico de programa hambre cero	0	NORMAL	10
+IMI 51	IMÁGENES		Ecografía en control prenatal	20	NORMAL	5
+IMI 51	IMÁGENES		Ecografía en control prenatal	25	NORMAL	1
+IMI 51	IMÁGENES		Ecografía en control prenatal	25	NORMAL	2
+IMI 51	IMÁGENES		Ecografía en control prenatal	25	NORMAL	3
+IMI 51	IMÁGENES		Ecografía en control prenatal	25	NORMAL	4
+IMI 51	IMÁGENES		Ecografía en control prenatal	30	NORMAL	6
+IMI 51	IMÁGENES		Ecografía en control prenatal	30	NORMAL	7
+IMI 51	IMÁGENES		Ecografía en control prenatal	35	NORMAL	8
+IMI 51	IMÁGENES		Ecografía en control prenatal	35	NORMAL	9
+IMI 51	IMÁGENES		Ecografía en control prenatal	35	NORMAL	10
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	10	NORMAL	8
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	10	NORMAL	9
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	10	NORMAL	10
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	12	NORMAL	5
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	15	NORMAL	1
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	15	NORMAL	2
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	15	NORMAL	3
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	15	NORMAL	4
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	5	NORMAL	6
+IMI 52	IMÁGENES		Electrocardiograma en embarazo	5	NORMAL	7
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	12	NORMAL	5
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	1
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	2
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	3
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	4
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	8
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	9
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	10
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	6
+IMI 53	IMÁGENES		Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	7
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	10	NORMAL	6
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	10	NORMAL	7
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	12	NORMAL	1
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	12	NORMAL	2
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	12	NORMAL	3
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	12	NORMAL	4
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	12	NORMAL	5
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	13	NORMAL	8
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	13	NORMAL	9
+IMI 54	IMÁGENES		Rx tórax F y P en niños menores de 6 años	13	NORMAL	10
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	10	NORMAL	6
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	10	NORMAL	7
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	12	NORMAL	1
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	12	NORMAL	2
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	12	NORMAL	3
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	12	NORMAL	4
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	12	NORMAL	5
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	13	NORMAL	8
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	13	NORMAL	9
+IMI 55	IMÁGENES		Rx tórax F y P en mujeres embarazadas	13	NORMAL	10
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	10	NORMAL	6
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	10	NORMAL	7
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	12	NORMAL	1
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	12	NORMAL	2
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	12	NORMAL	3
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	12	NORMAL	4
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	12	NORMAL	5
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	13	NORMAL	8
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	13	NORMAL	9
+IMI 56	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	13	NORMAL	10
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	10	NORMAL	6
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	10	NORMAL	7
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	12	NORMAL	1
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	12	NORMAL	2
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	12	NORMAL	3
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	12	NORMAL	4
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	12	NORMAL	5
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	13	NORMAL	8
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	13	NORMAL	9
+IMI 57	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	13	NORMAL	10
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	1
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	2
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	3
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	4
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	5
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	6
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	15	NORMAL	7
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	35	NORMAL	8
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	35	NORMAL	9
+IMI 58	IMÁGENES		Eco-doppler en niños menores de 6 años	35	NORMAL	10
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	10	NORMAL	8
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	10	NORMAL	9
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	10	NORMAL	10
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	12	NORMAL	5
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	15	NORMAL	1
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	15	NORMAL	2
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	15	NORMAL	3
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	15	NORMAL	4
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	5	NORMAL	6
+IMI 59	IMÁGENES		Electrocardiograma en niños menores de 6 años	5	NORMAL	7
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	10	NORMAL	1
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	15	NORMAL	2
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	15	NORMAL	3
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	15	NORMAL	4
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	5	NORMAL	5
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	5	NORMAL	6
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	5	NORMAL	7
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	7	NORMAL	8
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	7	NORMAL	9
+LMI 43	NIÑO	LABORATORIO	Laboratorio prueba de embarazo	7	NORMAL	10
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	55	NORMAL	5
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	55	NORMAL	6
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	55	NORMAL	7
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	65	NORMAL	1
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	65	NORMAL	2
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	65	NORMAL	3
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	65	NORMAL	4
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	70	NORMAL	8
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	70	NORMAL	9
+LMI 44	NIÑO	LABORATORIO	Laboratorio de control prenatal  de 1ra. Vez (incluye: grupo y factor,  hemoglobina, glucemia, orina completa, VDRL, Chagas, HIV, toxoplasmosis y Hbs antígeno).	70	NORMAL	10
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	45	NORMAL	5
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	45	NORMAL	6
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	45	NORMAL	7
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	1
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	2
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	3
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	4
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	8
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	9
+LMI 45	NIÑO	LABORATORIO	Laboratorio Ulterior de Control Prenatal  (Incluye Hemoglobina, Glicemia, Orina Completa, VDRL, HIV)	50	NORMAL	10
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	10	NORMAL	8
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	10	NORMAL	9
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	10	NORMAL	10
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	1
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	2
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	3
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	4
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	5
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	6
+LMI 46	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo I)	3	NORMAL	7
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	15	NORMAL	8
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	15	NORMAL	9
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	15	NORMAL	10
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	1
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	2
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	3
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	4
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	5
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	6
+LMI 47	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo II)	6	NORMAL	7
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	1
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	2
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	3
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	4
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	5
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	6
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	10	NORMAL	7
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	15	NORMAL	8
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	15	NORMAL	9
+LMI 48	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo III)	15	NORMAL	10
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	1
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	2
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	3
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	4
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	5
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	6
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	7
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	8
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	9
+LMI 49	NIÑO	LABORATORIO	Laboratorio Materno Infantil  (1 prueba de Anexo IV)	15	NORMAL	10
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	15	NORMAL	1
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	15	NORMAL	2
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	5	NORMAL	3
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	5	NORMAL	4
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	5	NORMAL	5
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	5	NORMAL	6
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	5	NORMAL	7
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	7	NORMAL	8
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	7	NORMAL	9
+LMI 50	NIÑO	LABORATORIO	Anatomía Patológica (Papanicolau) en Control de embarazo y Colposcopía)	7	NORMAL	10
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	3
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	4
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	5
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	6
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	7
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	8
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	9
+LMI 75	NIÑO	LABORATORIO	Extracción de sangre para análisis de laboratorio. Incluye material descartable.	5	NORMAL	10
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	12	NORMAL	1
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	15	NORMAL	5
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	20	NORMAL	2
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	20	NORMAL	3
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	20	NORMAL	4
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	30	NORMAL	6
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	30	NORMAL	7
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	40	NORMAL	8
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	40	NORMAL	9
+MEM 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	40	NORMAL	10
+MEM 01.1	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	8
+MEM 01.1	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	9
+MEM 01.1	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	10
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	12	NORMAL	1
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	15	NORMAL	5
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	18	NORMAL	2
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	18	NORMAL	3
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	18	NORMAL	4
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	20	NORMAL	6
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	20	NORMAL	7
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	20	NORMAL	8
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	20	NORMAL	9
+MEM 02	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	20	NORMAL	10
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	1
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	2
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	3
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	4
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	6
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	10	NORMAL	7
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	12	NORMAL	5
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	15	NORMAL	8
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	15	NORMAL	9
+MEM 03	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	15	NORMAL	10
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	10	NORMAL	5
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	12	NORMAL	1
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	18	NORMAL	2
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	18	NORMAL	3
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	18	NORMAL	4
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	3	NORMAL	6
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	3	NORMAL	7
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	5	NORMAL	8
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	5	NORMAL	9
+MEM 04	MUJER	EMBARAZO	Consulta de educación para la salud en embarazo (bio-psico-social)	5	NORMAL	10
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	10	NORMAL	5
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	16	NORMAL	1
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	25	NORMAL	2
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	25	NORMAL	3
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	25	NORMAL	4
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	3	NORMAL	6
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	3	NORMAL	7
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	5	NORMAL	8
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	5	NORMAL	9
+MEM 05	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	5	NORMAL	10
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	10	NORMAL	5
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	16	NORMAL	1
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	25	NORMAL	2
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	25	NORMAL	3
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	25	NORMAL	4
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	3	NORMAL	6
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	3	NORMAL	7
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	5	NORMAL	8
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	5	NORMAL	9
+MEM 06	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	5	NORMAL	10
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	3	NORMAL	6
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	3	NORMAL	7
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	5	NORMAL	1
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	5	NORMAL	2
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	5	NORMAL	3
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	5	NORMAL	4
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	5	NORMAL	5
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	7	NORMAL	8
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	7	NORMAL	9
+MEM 07	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	7	NORMAL	10
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	15	NORMAL	3
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	15	NORMAL	4
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	5	NORMAL	5
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	5	NORMAL	6
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	5	NORMAL	7
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	7	NORMAL	8
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	7	NORMAL	9
+MEM 72	MUJER	EMBARAZO	Anatomía Patológica (Papanicolau) en Control de embarazo	7	NORMAL	10
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	3
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	4
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	5
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	8
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	9
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	10	NORMAL	10
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	7	NORMAL	6
+MEM 73	MUJER	EMBARAZO	Toma de muestra para PAP (incluye material descartable)	7	NORMAL	7
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	10	NORMAL	6
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	10	NORMAL	7
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	10	NORMAL	8
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	10	NORMAL	9
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	10	NORMAL	10
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	12	NORMAL	5
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	18	NORMAL	1
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	25	NORMAL	2
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	25	NORMAL	3
+MER 08	MUJER	EMBARAZO DE ALTO RIESGO	Consulta de control  prenatal de embarazo de alto riesgo	25	NORMAL	4
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	10	NORMAL	6
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	10	NORMAL	7
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	12	NORMAL	5
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	18	NORMAL	1
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	30	NORMAL	2
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	30	NORMAL	3
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	30	NORMAL	4
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	5	NORMAL	8
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	5	NORMAL	9
+MER 09	MUJER	EMBARAZO DE ALTO RIESGO	Interconsulta con especialistas por embarazo de alto riesgo  (cardiología, endocrinología, genética, infectología)	5	NORMAL	10
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	10	NORMAL	5
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	18	NORMAL	1
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	3	NORMAL	6
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	3	NORMAL	7
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	40	NORMAL	2
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	40	NORMAL	3
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	40	NORMAL	4
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	5	NORMAL	8
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	5	NORMAL	9
+MER 10	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	5	NORMAL	10
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	10	NORMAL	5
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	18	NORMAL	1
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	3	NORMAL	6
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	3	NORMAL	7
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	40	NORMAL	2
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	40	NORMAL	3
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	40	NORMAL	4
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	5	NORMAL	8
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	5	NORMAL	9
+MER 11	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de SIDA en la embarazada	5	NORMAL	10
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	10	NORMAL	5
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	18	NORMAL	1
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	3	NORMAL	6
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	3	NORMAL	7
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	40	NORMAL	2
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	40	NORMAL	3
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	40	NORMAL	4
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	5	NORMAL	8
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	5	NORMAL	9
+MER 12	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de eclampsia	5	NORMAL	10
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	10	NORMAL	5
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	20	NORMAL	1
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	3	NORMAL	6
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	3	NORMAL	7
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	40	NORMAL	2
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	40	NORMAL	3
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	40	NORMAL	4
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	5	NORMAL	8
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	5	NORMAL	9
+MER 13	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio de anemia grave del embarazo	5	NORMAL	10
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	100	NORMAL	5
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	180	NORMAL	1
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	180	NORMAL	2
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	180	NORMAL	3
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	180	NORMAL	4
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	20	NORMAL	6
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	20	NORMAL	7
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	50	NORMAL	8
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	50	NORMAL	9
+MER 14	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 1er. Trimestre	50	NORMAL	10
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	100	NORMAL	5
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	180	NORMAL	1
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	180	NORMAL	2
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	180	NORMAL	3
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	180	NORMAL	4
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	20	NORMAL	6
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	20	NORMAL	7
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	50	NORMAL	8
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	50	NORMAL	9
+MER 15	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 2do.Trimestre	50	NORMAL	10
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	100	NORMAL	5
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	180	NORMAL	1
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	180	NORMAL	2
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	180	NORMAL	3
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	180	NORMAL	4
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	20	NORMAL	6
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	20	NORMAL	7
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	50	NORMAL	8
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	50	NORMAL	9
+MER 16	MUJER	EMBARAZO DE ALTO RIESGO	Tratamiento de la hemorragia del 3er. Trimestre	50	NORMAL	10
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	0	NORMAL	9
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	0	NORMAL	10
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	12	NORMAL	5
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	1
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	2
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	3
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	4
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	8
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	6
+MIS 30	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	7
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	12	NORMAL	5
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	1
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	2
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	3
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	15	NORMAL	4
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	8
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	9
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	35	NORMAL	10
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	6
+MIS 53	NULL	NULL	Electroencefalograma en niños menores de 6 años y mujeres embarazadas	5	NORMAL	7
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	100	NORMAL	6
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	200	NORMAL	7
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	250	NORMAL	8
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	250	NORMAL	9
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	250	NORMAL	10
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	340	NORMAL	1
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	400	NORMAL	5
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	540	NORMAL	2
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	540	NORMAL	3
+MPA 17	MUJER	PARTO	Atención de parto y recién nacido	540	NORMAL	4
+MPA 17.1	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	8
+MPA 17.1	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	9
+MPA 17.1	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	10
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	100	NORMAL	6
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	200	NORMAL	7
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	250	NORMAL	8
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	250	NORMAL	9
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	250	NORMAL	10
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	340	NORMAL	1
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	400	NORMAL	5
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	540	NORMAL	2
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	540	NORMAL	3
+MPA 18	MUJER	PARTO	Cesárea y atención del recién nacido	540	NORMAL	4
+MPA 18.1	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	8
+MPA 18.1	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	9
+MPA 18.1	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	10
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	12	NORMAL	1
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	5
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	6
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	7
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	8
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	9
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	15	NORMAL	10
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	18	NORMAL	2
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	18	NORMAL	3
+MPU 19	MUJER	PUERPERIO	Consulta de puerperio inmediato	18	NORMAL	4
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	10	NORMAL	5
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	10	NORMAL	8
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	10	NORMAL	9
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	10	NORMAL	10
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	16	NORMAL	1
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	18	NORMAL	2
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	18	NORMAL	3
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	18	NORMAL	4
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	3	NORMAL	6
+MPU 20	MUJER	PUERPERIO	Tratamiento ambulatorio de complicaciones de parto en puerperio inmediato	3	NORMAL	7
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	10	NORMAL	5
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	10	NORMAL	6
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	10	NORMAL	7
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	15	NORMAL	1
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	18	NORMAL	2
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	18	NORMAL	3
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	18	NORMAL	4
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	50	NORMAL	8
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	50	NORMAL	9
+MPU 21	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura    (prevención de muerte súbita y signos de alarma)	50	NORMAL	10
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	1
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	2
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	3
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	4
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	5
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	6
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	7
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	8
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	9
+MPU 22	MUJER	PUERPERIO	Informe de comité de auditoria de muerte materna y/o infantil  recibido y aprobado por el Ministerio de Salud de la Provincia, según ordenamiento.	50	NORMAL	10
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	2	NORMAL	1
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	2
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	3
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	4
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	5
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	6
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	5	NORMAL	7
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	7	NORMAL	8
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	7	NORMAL	9
+MPU 23	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola)	7	NORMAL	10
+NNE 11	NIÑO	NEONATO	Detección temprana de la hipoacusia en el Recién Nacido	17	NORMAL	8
+NNE 11	NIÑO	NEONATO	Detección temprana de la hipoacusia en el Recién Nacido	17	NORMAL	9
+NNE 11	NIÑO	NEONATO	Detección temprana de la hipoacusia en el Recién Nacido	17	NORMAL	10
+NNE 24	NIÑO	NEONATO	Pesquisa de la Retinopatía del Prematuro	15	NORMAL	6
+NNE 24	NIÑO	NEONATO	Pesquisa de la Retinopatía del Prematuro	15	NORMAL	7
+NNE 24	NIÑO	NEONATO	Pesquisa de la Retinopatía del Prematuro	17	NORMAL	8
+NNE 24	NIÑO	NEONATO	Pesquisa de la Retinopatía del Prematuro	17	NORMAL	9
+NNE 24	NIÑO	NEONATO	Pesquisa de la Retinopatía del Prematuro	17	NORMAL	10
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	150	NORMAL	1
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	180	NORMAL	2
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	180	NORMAL	3
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	180	NORMAL	4
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	180	NORMAL	5
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	20	NORMAL	6
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	20	NORMAL	7
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	50	NORMAL	8
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	50	NORMAL	9
+NNE 25	NIÑO	NEONATO	Atención de RN con condición grave al nacer (tratamiento pre-referencia)	50	NORMAL	10
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	10	NORMAL	8
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	10	NORMAL	9
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	10	NORMAL	10
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	20	NORMAL	1
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	30	NORMAL	2
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	30	NORMAL	3
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	30	NORMAL	4
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	30	NORMAL	5
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	5	NORMAL	6
+NNE 26	NIÑO	NEONATO	Tratamiento inmediato de sífilis congénita en RN	5	NORMAL	7
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	10	NORMAL	8
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	10	NORMAL	9
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	10	NORMAL	10
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	20	NORMAL	1
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	30	NORMAL	2
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	30	NORMAL	3
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	30	NORMAL	4
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	30	NORMAL	5
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	5	NORMAL	6
+NNE 27	NIÑO	NEONATO	Tratamiento inmediato de transmisión vertical de SIDA en RN	5	NORMAL	7
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	10	NORMAL	8
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	10	NORMAL	9
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	10	NORMAL	10
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	20	NORMAL	1
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	30	NORMAL	2
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	30	NORMAL	3
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	30	NORMAL	4
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	30	NORMAL	5
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	5	NORMAL	6
+NNE 28	NIÑO	NEONATO	Tratamiento inmediato de trastornos metabólicos (estado ácido base y electrolitos) en RN	5	NORMAL	7
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	10	NORMAL	8
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	10	NORMAL	9
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	10	NORMAL	10
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	20	NORMAL	1
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	30	NORMAL	2
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	30	NORMAL	3
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	30	NORMAL	4
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	30	NORMAL	5
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	5	NORMAL	6
+NNE 29	NIÑO	NEONATO	Tratamiento inmediato de Chagas congénito	5	NORMAL	7
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	120	NORMAL	1
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	120	NORMAL	2
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	120	NORMAL	3
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	120	NORMAL	4
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	120	NORMAL	5
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	250	NORMAL	6
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	250	NORMAL	7
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	500	NORMAL	8
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	500	NORMAL	9
+NNE 30	NIÑO	NEONATO	Incubadora hasta 48 horas para recién nacido	500	NORMAL	10
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	2	NORMAL	1
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	2
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	3
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	4
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	5
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	6
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	5	NORMAL	7
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	7	NORMAL	8
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	7	NORMAL	9
+NNE 31	NIÑO	NEONATO	Inmunización de recién nacido  (Incluye BCG y Hepatitis B)	7	NORMAL	10
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	12	NORMAL	1
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	15	NORMAL	5
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	18	NORMAL	2
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	18	NORMAL	3
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	18	NORMAL	4
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	30	NORMAL	6
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	30	NORMAL	7
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	30	NORMAL	8
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	30	NORMAL	9
+NPE 32	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	30	NORMAL	10
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	12	NORMAL	1
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	5
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	6
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	7
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	8
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	9
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	15	NORMAL	10
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	18	NORMAL	2
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	18	NORMAL	3
+NPE 33	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	18	NORMAL	4
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	10	NORMAL	6
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	10	NORMAL	7
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	10	NORMAL	8
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	10	NORMAL	9
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	10	NORMAL	10
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	15	NORMAL	5
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	18	NORMAL	1
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	18	NORMAL	2
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	18	NORMAL	3
+NPE 34	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica de menores de 6 años en emergencia hospitalaria	18	NORMAL	4
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	10	NORMAL	5
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	18	NORMAL	1
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	25	NORMAL	2
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	25	NORMAL	3
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	25	NORMAL	4
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	3	NORMAL	6
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	3	NORMAL	7
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	5	NORMAL	8
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	5	NORMAL	9
+NPE 35	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	5	NORMAL	10
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	10	NORMAL	5
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	25	NORMAL	1
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	25	NORMAL	2
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	25	NORMAL	3
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	25	NORMAL	4
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	3	NORMAL	6
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	3	NORMAL	7
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	5	NORMAL	8
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	5	NORMAL	9
+NPE 36	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	5	NORMAL	10
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	10	NORMAL	5
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	25	NORMAL	1
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	25	NORMAL	2
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	25	NORMAL	3
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	25	NORMAL	4
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	3	NORMAL	6
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	3	NORMAL	7
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	5	NORMAL	8
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	5	NORMAL	9
+NPE 37	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	5	NORMAL	10
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	10	NORMAL	5
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	10	NORMAL	6
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	10	NORMAL	7
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	15	NORMAL	8
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	15	NORMAL	9
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	15	NORMAL	10
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	18	NORMAL	1
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	25	NORMAL	2
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	25	NORMAL	3
+NPE 38	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Interconsulta de niños con pediatras especialistas en Cardiología, nefrología, infectología y gastroenterología	25	NORMAL	4
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	10	NORMAL	1
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	10	NORMAL	5
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	10	NORMAL	6
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	10	NORMAL	7
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	15	NORMAL	8
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	15	NORMAL	9
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	15	NORMAL	10
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	18	NORMAL	2
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	18	NORMAL	3
+NPE 39	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta oftalmológica en niños de 5 años	18	NORMAL	4
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	10	NORMAL	1
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	10	NORMAL	6
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	10	NORMAL	7
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	12	NORMAL	5
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	12	NORMAL	8
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	12	NORMAL	9
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	12	NORMAL	10
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	15	NORMAL	2
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	15	NORMAL	3
+NPE 40	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	15	NORMAL	4
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	1
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	2
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	3
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	4
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	5
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	6
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	5	NORMAL	7
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	7	NORMAL	8
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	7	NORMAL	9
+NPE 41	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	7	NORMAL	10
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	1
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	2
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	3
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	4
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	5
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	6
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	5	NORMAL	7
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	7	NORMAL	8
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	7	NORMAL	9
+NPE 42	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	7	NORMAL	10
+NPE 42 A	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de Sabin en niños de 2, 4, 6 y 18 meses y 6 años o actualización de esquema	7	NORMAL	8
+NPE 42 A	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de Sabin en niños de 2, 4, 6 y 18 meses y 6 años o actualización de esquema	7	NORMAL	9
+NPE 42 A	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de Sabin en niños de 2, 4, 6 y 18 meses y 6 años o actualización de esquema	7	NORMAL	10
+NPE 42 B	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Pentavalente en niños de 2, 4 y 6 meses o actualización de esquema	7	NORMAL	8
+NPE 42 B	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Pentavalente en niños de 2, 4 y 6 meses o actualización de esquema	7	NORMAL	9
+NPE 42 B	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Pentavalente en niños de 2, 4 y 6 meses o actualización de esquema	7	NORMAL	10
+NPE 42 C	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Cuadruple en niños de 18 meses o actualización de esquema	7	NORMAL	8
+NPE 42 C	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Cuadruple en niños de 18 meses o actualización de esquema	7	NORMAL	9
+NPE 42 C	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Cuadruple en niños de 18 meses o actualización de esquema	7	NORMAL	10
+NPE 42 D	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para Hepatitis A en niños de 12 meses o actualización de esquema	7	NORMAL	8
+NPE 42 D	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para Hepatitis A en niños de 12 meses o actualización de esquema	7	NORMAL	9
+NPE 42 D	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para Hepatitis A en niños de 12 meses o actualización de esquema	7	NORMAL	10
+NPE 42 E	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Triple Bacteriana Celular en  niños de 6 años o actualización de esquema	7	NORMAL	8
+NPE 42 E	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Triple Bacteriana Celular en  niños de 6 años o actualización de esquema	7	NORMAL	9
+NPE 42 E	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización Triple Bacteriana Celular en  niños de 6 años o actualización de esquema	7	NORMAL	10
+NPE 42 F	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dopsis aplicada de inmunización Anti- amarilica en niños de 12 meses en departamentos de riesgo	7	NORMAL	8
+NPE 42 F	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dopsis aplicada de inmunización Anti- amarilica en niños de 12 meses en departamentos de riesgo	7	NORMAL	9
+NPE 42 F	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dopsis aplicada de inmunización Anti- amarilica en niños de 12 meses en departamentos de riesgo	7	NORMAL	10
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	15	NORMAL	5
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	20	NORMAL	6
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	20	NORMAL	7
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	25	NORMAL	3
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	25	NORMAL	4
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	25	NORMAL	8
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	25	NORMAL	9
+NPE 74	NIÑO	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	25	NORMAL	10
+Pago Dif-1	NULL	NULL	Pago Diferencial 1er Cuatrimestre	0	NORMAL	9
+Pago Dif-1	NULL	NULL	Pago Diferencial 1er Cuatrimestre	0	NORMAL	10
+Pago Dif-2	NULL	NULL	Pago Diferencial 2do Cuatrimestre	0	NORMAL	9
+Pago Dif-2	NULL	NULL	Pago Diferencial 2do Cuatrimestre	0	NORMAL	10
+Pago Dif-3	NULL	NULL	Pago Diferencial 3er Cuatrimestre	0	NORMAL	9
+Pago Dif-3	NULL	NULL	Pago Diferencial 3er Cuatrimestre	0	NORMAL	10
+RCM 10	COMUNIDAD		Captación por búsqueda activa de embarazadas en el primer trimestre por agente sanitario y/o personal de Salud	70	RURAL	4
+RCM 10	COMUNIDAD		Carta de derechos de la mujer embarazada indígena	20	RURAL	4
+RCM 10	COMUNIDAD		Diagnóstico socio-epidemiológico de población en riesgo, (documento entregado y aprobado)	200	RURAL	4
+RCM 10	COMUNIDAD		Encuentros para promoción de pautas alimentarias	80	RURAL	4
+RCM 10	COMUNIDAD		Encuentros para promoción de salud sexual y reproductiva	80	RURAL	4
+RCM 10	COMUNIDAD		Encuentros para promoción del desarrollo infantil	80	RURAL	4
+RCM 10	COMUNIDAD		Ronda Completa de Agente Sanitario en Población Indígena	80	RURAL	4
+RCM 11	COMUNIDAD		Captación por búsqueda activa de embarazadas/niños con abandono de controles, por agente sanitario y personal de salud.	70	RURAL	4
+REM 76	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	40	RURAL	4
+REM 77	MUJER	EMBARAZO	Consulta ulterior de control  prenatal	36	RURAL	4
+REM 78	MUJER	EMBARAZO	Consulta odontológica prenatal - profilaxis	20	RURAL	4
+REM 79	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de infección urinaria en embarazada	50	RURAL	4
+REM 80	MUJER	EMBARAZO	Atención y tratamiento ambulatorio de anemia leve del embarazo	50	RURAL	4
+REM 81	MUJER	EMBARAZO	Inmunización antitetánica en embarazo	10	RURAL	4
+RER 82	MUJER	EMBARAZO DE ALTO RIESGO	Atención y tratamiento ambulatorio  de sífilis y ETS en embarazo	80	RURAL	4
+RIM 10	IMÁGENES		Rx  de huesos largos en niños  menores de 6 años c/patología prevalente.	24	RURAL	4
+RIM 10	IMÁGENES		Rx tórax F y P en mujeres embarazadas	24	RURAL	4
+RIM 10	IMÁGENES		Rx. de cráneo F y P en niños menores de 6 años  y mujeres embarazadas	24	RURAL	4
+RIM 98	IMÁGENES		Ecografía en control prenatal	50	RURAL	4
+RIM 99	IMÁGENES		Rx tórax F y P en niños menores de 6 años	24	RURAL	4
+RLM 95	LABORATORIO		Extracción de sangre para análisis de laboratorio. Incluye material descartable.	10	RURAL	4
+RLM 96	LABORATORIO		Colposcopía en Control de embarazo  (incluye material descartable)	10	RURAL	4
+RLM 97	LABORATORIO		Toma de muestra para PAP (incluye material descartable)	20	RURAL	4
+RPE 86	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica menores de un año	36	RURAL	4
+RPE 87	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consulta pediátrica  de niños de 1 a 6 años	36	RURAL	4
+RPE 88	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria con suplementación vitamínica a niños desnutridos menores de 6 años	50	RURAL	4
+RPE 89	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de enfermedades diarreicas agudas en niños menores de 6 años	50	RURAL	4
+RPE 90	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Atención ambulatoria de infección respiratoria aguda en niños menores de 6 años	50	RURAL	4
+RPE 91	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Kinesioterapia Respiratoria Ambulatoria  en Infecciones Respiratorias Agudas en Niños Menores de 6 años ( 5 sesiones )	50	RURAL	4
+RPE 92	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Consejería en salud buco-dental por personal de salud en niños menores de 6 años.	30	RURAL	4
+RPE 93	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicada de inmunización para sarampión en niños menores de 6 años	10	RURAL	4
+RPE 94	NIÑOS	NIÑOS MENORES DE 6 AÑOS (NO INCLUYE NEONATOS)	Dosis aplicadas de otras inmunizaciones del esquema de vacunación en niños menores de 6 años	10	RURAL	4
+RPU 83	MUJER	PUERPERIO	Consulta de puerperio inmediato	36	RURAL	4
+RPU 84	MUJER	PUERPERIO	Consejería puerperal en SS y R; lactancia materna y puericultura (prevención de muerte súbita y signos de alarma)	36	RURAL	4
+RPU 85	MUJER	PUERPERIO	Inmunización puerperal ( Rubéola )	10	RURAL	4
+RTM 11	TRANSPORTE		Transporte de emergencia del RN	1.2	RURAL	4
+RTM 11	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	40	RURAL	4
+RTM 11	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	0.8	RURAL	4
+SIS 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	8
+SIS 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	9
+SIS 01	MUJER	EMBARAZO	Consulta de control prenatal  de 1ra.vez	120	NORMAL	10
+SIS 17	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	8
+SIS 17	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	9
+SIS 17	MUJER	PARTO	Atención de parto y recién nacido	300	NORMAL	10
+SIS 18	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	8
+SIS 18	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	9
+SIS 18	MUJER	PARTO	Cesárea y atención del recién nacido	300	NORMAL	10
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1.2	NORMAL	2
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1.2	NORMAL	3
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1.2	NORMAL	4
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1.2	NORMAL	5
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	100	NORMAL	1
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1000	NORMAL	9
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	1000	NORMAL	10
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	200	NORMAL	6
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	200	NORMAL	7
+TMI 69	TRANSPORTE		Transporte de emergencia del RN	200	NORMAL	8
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	0.69	NORMAL	1
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	40	NORMAL	2
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	40	NORMAL	3
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	40	NORMAL	4
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	40	NORMAL	5
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	50	NORMAL	6
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	50	NORMAL	7
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	50	NORMAL	8
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	50	NORMAL	9
+TMI 70	TRANSPORTE		Transporte por referencia de zona A de embarazadas y niños menores de 6 años	50	NORMAL	10
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	0.8	NORMAL	2
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	0.8	NORMAL	3
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	0.8	NORMAL	4
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	0.8	NORMAL	5
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	100	NORMAL	6
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	100	NORMAL	7
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	100	NORMAL	8
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	100	NORMAL	9
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	100	NORMAL	10
+TMI 71	TRANSPORTE		Transporte por referencia de zona B de embarazadas y niños menores de 6 años	80	NORMAL	1

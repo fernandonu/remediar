@@ -1,0 +1,19 @@
+create table "uad"."remediar_x_beneficiario"(
+"id_r_x_b" SERIAL,
+"nroformulario" BIGINT NOT NULL,
+"fechaempadronamiento" DATE NOT NULL,
+"clavebeneficiario" VARCHAR(16) NOT NULL,
+"usuario_carga" VARCHAR(10),
+"fecha_carga" TIMESTAMP(0) WITHOUT TIME ZONE,
+"enviado" char(1) DEFAULT 'n',
+CONSTRAINT "remediar_x_beneficiario_pkey" PRIMARY KEY ("id_r_x_b")
+)without oids;
+
+
+
+create table "uad"."remediar_x_usuario"(
+"id_uad_x_usuario" SERIAL,
+"cod_uad" VARCHAR(5) NOT NULL,
+"id_usuario" INTEGER NOT NULL,
+CONSTRAINT "remediar_x_usuario_pkey" PRIMARY KEY ("id_uad_x_usuario")
+)without oids;

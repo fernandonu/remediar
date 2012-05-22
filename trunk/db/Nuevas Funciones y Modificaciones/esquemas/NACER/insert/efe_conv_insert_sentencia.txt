@@ -1,0 +1,6 @@
+select *
+from [20geniposefecores]a
+inner join [20gniposmunicipios]b on a.idmuncipio=b.idmunicipio
+inner join [20geniposdepartamento]c on a.iddepartamento=c.iddepartamento
+
+

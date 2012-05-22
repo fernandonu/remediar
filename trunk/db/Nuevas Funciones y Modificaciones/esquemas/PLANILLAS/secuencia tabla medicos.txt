@@ -1,0 +1,8 @@
+CREATE SEQUENCE planillas.medicos_id_medico_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+ALTER TABLE planillas.medicos_id_medico_seq OWNER TO postgres;
+

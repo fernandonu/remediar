@@ -1,0 +1,11 @@
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "apellidoagente" varchar(50);
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "nombreagente" varchar(50);
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "centro_inscriptor" char(6);
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "dni_agente" varchar(12);

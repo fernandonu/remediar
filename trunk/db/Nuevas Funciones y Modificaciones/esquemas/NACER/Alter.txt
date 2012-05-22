@@ -1,0 +1,3 @@
+ALTER TABLE nacer.efe_conv
+   ADD COLUMN padre char(6);
+

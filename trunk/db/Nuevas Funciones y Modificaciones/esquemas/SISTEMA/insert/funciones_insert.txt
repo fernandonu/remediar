@@ -1,0 +1,8 @@
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (1, 'Guarda Remediar', 'Boton de Guardar Remediar en inscripcion', NULL, 's', 'ins_admin');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (2, 'Estados', 'Estados en inscripcion', NULL, 's', 'ins_admin');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (3, 'Otros Ape-Nom', 'Agrega otros nombres y otros apellidos para la validacion de misiones', NULL, 's', 'ins_admin');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (4, 'Uad Benef', 'Se parametrizan las UAD por Id de Usuarios', NULL, 's', 'ins_admin');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (5, 'Provincia', 'Marca la provincia en la que esta siendo usado el sistema', 'Misiones', 's', 'all');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (6, 'Puco', 'Version del Puco actual en el sistema', '201104', 's', 'all');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (7, 'Nro Factura', 'Soporta Nro de Factura proveniente de sistema Offline', '', 's', 'facturacion');
+INSERT INTO "sistema"."funciones" (idfuncion,nombre,descripcion,accion,habilitado,pagina) VALUES (8, 'Datos Agente', 'Completar en Inscripcion los Datos Agente','s', 's', 'ins_admin');

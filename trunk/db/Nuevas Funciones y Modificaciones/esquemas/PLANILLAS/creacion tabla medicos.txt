@@ -1,0 +1,11 @@
+CREATE TABLE "planillas"."medicos" (
+"id_medico" int8 DEFAULT nextval('"planillas".medicos_id_medico_seq'::regclass) NOT NULL,
+"apellido_medico" varchar(50),
+"nombre_medico" varchar(50),
+"dni_medico" varchar(12),
+CONSTRAINT "medicos_pkey" PRIMARY KEY ("id_medico")
+)
+WITH (OIDS=FALSE)
+;
+
+ALTER TABLE "planillas"."medicos" OWNER TO "projekt";

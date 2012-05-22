@@ -1,0 +1,12 @@
+CREATE TABLE "uad"."departamentos" (
+  "nombre" TEXT, 
+  "id_provincia" INTEGER NOT NULL, 
+  "id_departamento" VARCHAR(3) NOT NULL, 
+  "iddpto_provincial" INTEGER NOT NULL, 
+  CONSTRAINT "departamentos_pkey" PRIMARY KEY("iddpto_provincial"), 
+  CONSTRAINT "ref_departamentos_to_provincias" FOREIGN KEY ("id_provincia")
+    REFERENCES "uad"."provincias"("id_provincia")
+    ON DELETE NO ACTION
+    ON UPDATE NO ACTION
+    NOT DEFERRABLE
+) WITHOUT OIDS;

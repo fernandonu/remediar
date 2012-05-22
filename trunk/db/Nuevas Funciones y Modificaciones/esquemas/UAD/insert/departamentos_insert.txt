@@ -1,0 +1,17 @@
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('APOSTOLES',20,'007',1);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('CAINGUAS',20,'014',2);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('CANDELARIA',20,'021',3);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('CAPITAL',20,'028',4);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('CONCEPCION',20,'035',5);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('ELDORADO',20,'042',6);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('General Manuel Belgrano',20,'049',7);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('GUARANI',20,'056',8);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('IGUAZU',20,'063',9);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('Libertador Grl. San Martin',20,'077',10);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('Leandro N. Alem',20,'070',11);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('MONTECARLO',20,'084',12);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('OBERA',20,'091',13);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('SAN IGNACIO',20,'098',14);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('SAN JAVIER',20,'105',15);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('SAN PEDRO',20,'112',16);
+insert into "uad"."departamentos" (nombre,id_provincia,id_departamento,iddpto_provincial) values ('25 DE MAYO',20,'119',17);

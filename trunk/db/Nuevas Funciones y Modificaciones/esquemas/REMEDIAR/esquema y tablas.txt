@@ -1,0 +1,86 @@
+CREATE SCHEMA "remediar" AUTHORIZATION "projekt";
+
+CREATE TABLE "remediar"."colesterol" (
+  "id_colesterol" SERIAL, 
+  "descripcion1" VARCHAR(100), 
+  "descripcion2" VARCHAR(2), 
+  "puntaje" INTEGER, 
+  "cual" INTEGER, 
+  CONSTRAINT "colesterol_pkey" PRIMARY KEY("id_colesterol")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."dmt2" (
+  "id_dmt2" SERIAL, 
+  "descripcion1" VARCHAR(100), 
+  "descripcion2" VARCHAR(2), 
+  "puntaje" INTEGER, 
+  "cual" INTEGER, 
+  CONSTRAINT "dmt2_pkey" PRIMARY KEY("id_dmt2")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."ecv" (
+  "id_ecv" SERIAL, 
+  "descripcion" VARCHAR(16), 
+  "puntaje" INTEGER, 
+  CONSTRAINT "ecv_pkey" PRIMARY KEY("id_ecv")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."factores_riesgo" (
+  "id_factor" SERIAL, 
+  "descripcion" VARCHAR(100), 
+  "puntaje" INTEGER NOT NULL, 
+  "sexo" VARCHAR(15), 
+  "edadini" INTEGER, 
+  "edadfin" INTEGER, 
+  CONSTRAINT "factores_riesgo_pkey" PRIMARY KEY("id_factor")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."formulario" (
+"id_formulario" int4 DEFAULT nextval('"remediar".formulario_id_formulario_seq'::regclass) NOT NULL,
+"nroformulario" int8 NOT NULL,
+"factores_riesgo" int4,
+"hta2" int4,
+"hta3" int4,
+"colesterol4" int4,
+"colesterol5" int4,
+"dmt26" int4,
+"dmt27" int4,
+"ecv8" int4,
+"tabaco9" int4,
+"puntaje_final" int4,
+"apellidoagente" varchar(50),
+"nombreagente" varchar(50),
+"centro_inscriptor" char(6),
+"os" varchar(50),
+"dni_agente" varchar(12),
+"cual_os" varchar(50),
+CONSTRAINT "formulario_pkey" PRIMARY KEY ("id_formulario")
+)
+WITH OIDS;
+
+
+
+CREATE TABLE "remediar"."hta" (
+  "id_hta" SERIAL, 
+  "descripcion1" VARCHAR(100), 
+  "puntaje" INTEGER, 
+  "descripcion2" VARCHAR(11), 
+  "cual" INTEGER, 
+  CONSTRAINT "hta_pkey" PRIMARY KEY("id_hta")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."resultado" (
+  "id_resultado" SERIAL, 
+  "nivel_riesgo" VARCHAR(20), 
+  "num_factor" VARCHAR(10), 
+  "comentario" VARCHAR(70), 
+  "consulta" VARCHAR(50), 
+  CONSTRAINT "resultado_pkey" PRIMARY KEY("id_resultado")
+) WITH OIDS;
+
+CREATE TABLE "remediar"."tabaco" (
+  "id_tabaco" SERIAL, 
+  "descripcion" VARCHAR(2), 
+  "puntaje" INTEGER, 
+  CONSTRAINT "tabaco_pkey" PRIMARY KEY("id_tabaco")
+) WITH OIDS;

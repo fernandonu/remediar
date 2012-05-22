@@ -1,0 +1,12 @@
+codigo	grupo	subgrupo	descripcion	precio	tipo_nomenclador	id_nomenclador_detalle
+MEM 122	EMBARAZO		Inactivación de policaries inactivas o incipientes	10	NORMAL	10
+MEM 07 B	EMBARAZO		Dosis aplicada de vacuna antigripal	7	NORMAL	10
+MPU 23 B	MUJER		Dosis aplicada de vacuna antigripal	7	NORMAL	10
+NPE 115	NIÑO		Posta de rehidratación Diarrea aguda en ambulatorio	10	NORMAL	10
+NPE 116	NIÑO		Internación abreviada Síndrome Bronquial Obstructivo (prehospitalización en ambulatorio)	15	NORMAL	10
+NPE 120	NIÑO		Internación abreviada Síndrome Bronquial Obstructivo (24-48hs internacion en hospital)	200	NORMAL	10
+NPE 121	NIÑO		Internación por neumonía	200	NORMAL	10
+NPE 117	NIÑO		Otoemsión en lactante "NO PASA" con Otoemisión	9	NORMAL	10
+NPE 118	NIÑO		Consulta niño con otorrinolaringólogo (en lactante "NO PASA" otoemisiones acusticas/BERA)	6	NORMAL	10
+NPE 119	NIÑO		BERA en lactante "NO PASA" con segunda otoemisión	9	NORMAL	10
+NPE 42 G	NIÑO		Dopsis aplicada de vacuna en niños de 6 a 24 meses o en niños mayores con factores de riesgo	7	NORMAL	10

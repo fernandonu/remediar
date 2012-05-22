@@ -1,0 +1,7 @@
+CREATE SEQUENCE trazadoras.clasificacion_remediar_id_clasificacion_seq
+  INCREMENT 1
+  MINVALUE 1
+  MAXVALUE 9223372036854775807
+  START 14
+  CACHE 1;
+ALTER TABLE trazadoras.clasificacion_remediar_id_clasificacion_seq OWNER TO postgres;

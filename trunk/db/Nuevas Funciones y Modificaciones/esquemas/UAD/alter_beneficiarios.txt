@@ -1,0 +1,18 @@
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "apellido_benef_otro" VARCHAR(30);
+
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "nombre_benef_otro" VARCHAR(30);
+
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "fecha_verificado" TIMESTAMP(0) WITHOUT TIME ZONE;
+
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "usuario_verificado" VARCHAR(10);
+
+
+ALTER TABLE "uad"."beneficiarios"
+  ADD COLUMN "fallecido" CHAR(1) DEFAULT 'n';
