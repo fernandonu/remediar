@@ -55,10 +55,10 @@ $itemspp = 50;
  *******************************************/
 
 $db_type = 'postgres8';				// Tipo de base de datos.
-$db_host = '192.168.1.251';		// Host para desarrollo.
+$db_host = 'localhost';		// Host para desarrollo.
 $db_user = 'projekt';				// Usuario.
 $db_password = 'propcp';			// Contrase�a.
-$db_name = 'nacer';
+$db_name = 'remediar';
 
 
 // IPs permitidas para conectarse al gestion, si el ip no esta aca, se envia un mail
