@@ -27,7 +27,7 @@
 <userdata name='nodeType'>1</userdata>
 <userdata name='name'>menu_beneficiarios</userdata>
 <userdata name='dir'></userdata>
-<item id='2961' text='DNI Ajenos Mayores de 1 Año' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<item id='2961' text='DNI Ajenos Mayores de 1 A�o' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>listado_duplicados_anio</userdata>
 <userdata name='dir'>nacer</userdata>
@@ -87,14 +87,14 @@
 <userdata name='dir'>calidad</userdata>
 </item>
 </item>
-<item id='2874' text='Hace Grafico' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>indicadores_grafico</userdata>
-<userdata name='dir'>calidad</userdata>
-</item>
 <item id='2875' text='Hace Grafico' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>indicadores_grafico_int</userdata>
+<userdata name='dir'>calidad</userdata>
+</item>
+<item id='2874' text='Hace Grafico' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<userdata name='nodeType'>3</userdata>
+<userdata name='name'>indicadores_grafico</userdata>
 <userdata name='dir'>calidad</userdata>
 </item>
 <item id='2965' text='Indicadores Provinciales' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
@@ -242,66 +242,6 @@
 </item>
 </item>
 </item>
-<item id='3068' text='Reportes de Carga' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>RmR</userdata>
-<userdata name='dir'></userdata>
-<item id='3090' text='Nomina por efector' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>listado_nominal</userdata>
-<userdata name='dir'>remediar</userdata>
-<item id='3091' text='Excel Nomina por efector' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>listado_nominal_excel</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
-<item id='3086' text='Resumen Hora' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>resumen_operador_hora2</userdata>
-<userdata name='dir'>remediar</userdata>
-<item id='3087' text='Excel Hora' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>resumen_operador_hora_excel2</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
-<item id='3079' text='Resumen R+R' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>resumen_ficha_rr</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-<item id='3084' text='Resumen por Hora' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>resumen_operador_hora</userdata>
-<userdata name='dir'>remediar</userdata>
-<item id='3085' text='Excel por Hora' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>resumen_operador_hora_excel</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
-<item id='3069' text='Resumen por Operador' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>resumen_operador</userdata>
-<userdata name='dir'>remediar</userdata>
-<item id='3071' text='Resumen por Operador Excel' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>resumen_operador_excel</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
-<item id='3070' text='Resumen por Promotor' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>resumen_promotor</userdata>
-<userdata name='dir'>remediar</userdata>
-<item id='3072' text='Resumen por Promotor Excel' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>resumen_promotor_excel</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
-</item>
 <item id='2935' text='Resumen por Efector' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>cuadro_de_mando</userdata>
@@ -321,83 +261,23 @@
 <userdata name='nodeType'>1</userdata>
 <userdata name='name'>Expedientes</userdata>
 <userdata name='dir'></userdata>
-<item id='3048' text='Contaduria' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>Contaduria</userdata>
-<userdata name='dir'></userdata>
-<item id='3051' text='Acreditacion Expediente Admin' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='3066' text='Area Listado' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<userdata name='nodeType'>2</userdata>
+<userdata name='name'>area_listado</userdata>
+<userdata name='dir'>expediente</userdata>
+<item id='3067' text='Form Remediar' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<userdata name='nodeType'>2</userdata>
+<userdata name='name'>remediar_admin</userdata>
+<userdata name='dir'>remediar</userdata>
+</item>
+</item>
+<item id='3064' text='Listado de Expediente' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<userdata name='nodeType'>2</userdata>
+<userdata name='name'>exp_listado</userdata>
+<userdata name='dir'>expediente</userdata>
+<item id='3065' text='Expediente Admin' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
-<userdata name='name'>mod_acred_exp</userdata>
-<userdata name='dir'></userdata>
-</item>
-<item id='3049' text='Acreditacion de expediente' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>acreditacion_exp</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-</item>
-<item id='3050' text='Coordinacion General' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>Coordinacion General</userdata>
-<userdata name='dir'></userdata>
-<item id='3054' text='Expediente Admin Coord' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>mod_exp_coord</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3052' text='Expediente Coordinacion' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>expediente_coord</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3053' text='Historial de Expediente' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>historial</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-</item>
-<item id='3055' text='Gestion' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>Gestion</userdata>
-<userdata name='dir'></userdata>
-<item id='3056' text='Expedientes' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>expediente</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3057' text='Modificacion Expediente' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>mod_exp</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3058' text='Modificacion de Debitos' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>modificacion</userdata>
-<userdata name='dir'>expedientes</userdata>
-</item>
-</item>
-<item id='3059' text='Mesa de Entradas' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>Mesa de Entradas</userdata>
-<userdata name='dir'></userdata>
-<item id='3060' text='Alta' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>alta_exp</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3062' text='Efector' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>efector</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3063' text='Expediente Admin' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>mod_exp_mesa</userdata>
-<userdata name='dir'>expediente</userdata>
-</item>
-<item id='3061' text='Movimiento de Expediente' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>expediente_mesa</userdata>
+<userdata name='name'>exp_admin</userdata>
 <userdata name='dir'>expediente</userdata>
 </item>
 </item>
@@ -561,14 +441,14 @@
 <userdata name='name'>factura_exepciones</userdata>
 <userdata name='dir'></userdata>
 </item>
-<item id='2861' text='Nueva Prestacion' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>prestacion_admin</userdata>
-<userdata name='dir'>facturacion</userdata>
-</item>
 <item id='3032' text='Nueva Prestacion' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>prestacion_admin_2011</userdata>
+<userdata name='dir'>facturacion</userdata>
+</item>
+<item id='2861' text='Nueva Prestacion' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<userdata name='nodeType'>3</userdata>
+<userdata name='name'>prestacion_admin</userdata>
 <userdata name='dir'>facturacion</userdata>
 </item>
 <item id='2856' text='Nuevo Comprobante' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
@@ -606,16 +486,6 @@
 <userdata name='name'>leche_nuevo_admin</userdata>
 <userdata name='dir'>entrega_leche</userdata>
 </item>
-<item id='3097' text='r+r' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>remediar_carga_viejo</userdata>
-<userdata name='dir'></userdata>
-</item>
-<item id='3096' text='r+r nuevo' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>remediar_carga</userdata>
-<userdata name='dir'></userdata>
-</item>
 </item>
 <item id='2938' text='Informe Facturacion' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
@@ -640,16 +510,6 @@
 <userdata name='nodeType'>4</userdata>
 <userdata name='name'>importa_rendicion_cuentas</userdata>
 <userdata name='dir'></userdata>
-</item>
-</item>
-<item id='3088' text='Recepción TXT' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>recepcion_txt</userdata>
-<userdata name='dir'>facturacion</userdata>
-<item id='3089' text='Recepción Nuevo TXT' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>recepcion_nuevo_txt</userdata>
-<userdata name='dir'>facturacion</userdata>
 </item>
 </item>
 <item id='2882' text='Resumen de Prestaciones' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
@@ -716,16 +576,6 @@
 <userdata name='name'>ins_admin_old</userdata>
 <userdata name='dir'>inscripcion</userdata>
 </item>
-<item id='3083' text='Auditoria' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>auditoria</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-<item id='3065' text='Buscar Efector' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>busca_efector</userdata>
-<userdata name='dir'>inscripcion</userdata>
-</item>
 </item>
 <item id='3011' text='Listado Inscriptos Nueva Operacion' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
@@ -736,36 +586,16 @@
 <userdata name='name'>ins_admin</userdata>
 <userdata name='dir'></userdata>
 </item>
-<item id='3075' text='Archivo de Pendientes' child='0' im0='item.gif' im1='item.gif' im2='item.gif' >
-<userdata name='nodeType'>4</userdata>
-<userdata name='name'>permiso_pendientes</userdata>
+<item id='3068' text='Localidades' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<userdata name='nodeType'>3</userdata>
+<userdata name='name'>procesa</userdata>
 <userdata name='dir'></userdata>
-</item>
-<item id='3077' text='Busqueda de Barrio' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>busca_barrio</userdata>
-<userdata name='dir'>inscripcion</userdata>
-</item>
-<item id='3076' text='Listado Pendietes Excel' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>listado_pendientes_excel</userdata>
-<userdata name='dir'>inscripcion</userdata>
 </item>
 <item id='3031' text='permiso_cambio_estado_inscripcion' child='0' im0='item.gif' im1='item.gif' im2='item.gif' >
 <userdata name='nodeType'>4</userdata>
 <userdata name='name'>permiso_cambio_estado_inscripcion</userdata>
 <userdata name='dir'></userdata>
 </item>
-<item id='3074' text='procesa' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>procesa</userdata>
-<userdata name='dir'>inscripcion</userdata>
-</item>
-</item>
-<item id='3078' text='Listado de Pendientes' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
-<userdata name='nodeType'>2</userdata>
-<userdata name='name'>pendiente_listado</userdata>
-<userdata name='dir'>inscripcion</userdata>
 </item>
 </item>
 <item id='2896' text='Personal' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
@@ -888,21 +718,6 @@
 </item>
 </item>
 </item>
-<item id='3066' text='Remediar' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
-<userdata name='nodeType'>1</userdata>
-<userdata name='name'>remediar</userdata>
-<userdata name='dir'></userdata>
-<item id='3073' text='Busca Promotor' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>busca_promotor</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-<item id='3067' text='Form Remediar' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>remediar_admin</userdata>
-<userdata name='dir'>remediar</userdata>
-</item>
-</item>
 <item id='2878' text='Trazadoras' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
 <userdata name='nodeType'>1</userdata>
 <userdata name='name'>Trazadoras</userdata>
@@ -947,11 +762,11 @@
 <userdata name='dir'>trazadoras</userdata>
 </item>
 </item>
-<item id='2879' text='Planilla de Niños' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<item id='2879' text='Planilla de Ni�os' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>nino_listado</userdata>
 <userdata name='dir'>trazadoras</userdata>
-<item id='2880' text='Alta de Niño' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='2880' text='Alta de Ni�o' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>nino_admin</userdata>
 <userdata name='dir'>trazadoras</userdata>
@@ -961,7 +776,7 @@
 <userdata name='name'>permiso_borrar</userdata>
 <userdata name='dir'></userdata>
 </item>
-<item id='2946' text='Excel Niño' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='2946' text='Excel Ni�o' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>nino_listado_excel</userdata>
 <userdata name='dir'>trazadoras</userdata>
@@ -972,11 +787,11 @@
 <userdata name='dir'></userdata>
 </item>
 </item>
-<item id='3009' text='Planilla de Niños OMS' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<item id='3009' text='Planilla de Ni�os OMS' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>nino_listado_new</userdata>
 <userdata name='dir'>trazadoras</userdata>
-<item id='3008' text='Niño Admin Nuevo' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='3008' text='Ni�o Admin Nuevo' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>nino_admin_new</userdata>
 <userdata name='dir'>trazadoras</userdata>
@@ -1011,11 +826,6 @@
 <userdata name='name'>vac_listado_excel</userdata>
 <userdata name='dir'>trazadoras</userdata>
 </item>
-</item>
-<item id='3082' text='busca medico' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>busca_medico</userdata>
-<userdata name='dir'>trazadoras</userdata>
 </item>
 </item>
 <item id='2663' text='Utilidades' child='1' im0='folderClosed.gif' im1='folderOpen.gif' im2='folderClosed.gif' >
@@ -1071,11 +881,6 @@
 <userdata name='name'>efectores_unif_admin</userdata>
 <userdata name='dir'>nacer</userdata>
 </item>
-<item id='3094' text='Crear un nuevo convenio' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>nuevo_convenio</userdata>
-<userdata name='dir'></userdata>
-</item>
 <item id='2917' text='Excel de Efectores Admin' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>efectores_unif_excel</userdata>
@@ -1106,7 +911,7 @@
 <userdata name='nodeType'>1</userdata>
 <userdata name='name'>submenu_herramientas</userdata>
 <userdata name='dir'></userdata>
-<item id='235' text='Cambiar Contraseña' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<item id='235' text='Cambiar Contrase�a' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>usuarios_contra</userdata>
 <userdata name='dir'>admin</userdata>
@@ -1127,20 +932,10 @@
 <userdata name='dir'>admin</userdata>
 </item>
 </item>
-<item id='2885' text='Importa Archivos' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
+<item id='2885' text='Importa Archivos' child='0' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
 <userdata name='name'>genera_archivo</userdata>
 <userdata name='dir'>nacer</userdata>
-<item id='3081' text='puco_ini' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>puco_ini</userdata>
-<userdata name='dir'>nacer</userdata>
-</item>
-<item id='3080' text='puco_proc' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
-<userdata name='nodeType'>3</userdata>
-<userdata name='name'>puco_proc</userdata>
-<userdata name='dir'>nacer</userdata>
-</item>
 </item>
 <item id='2973' text='Insumos' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
@@ -1229,12 +1024,12 @@
 <userdata name='name'>permisos_xml</userdata>
 <userdata name='dir'>permisos</userdata>
 </item>
-<item id='1617' text='permisos - Administración de ACLs' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='1617' text='permisos - Administraci�n de ACLs' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>acl_admin</userdata>
 <userdata name='dir'>permisos</userdata>
 </item>
-<item id='1798' text='permisos - Administración de grupos de ACLs' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<item id='1798' text='permisos - Administraci�n de grupos de ACLs' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
 <userdata name='nodeType'>3</userdata>
 <userdata name='name'>group_admin</userdata>
 <userdata name='dir'>permisos</userdata>
