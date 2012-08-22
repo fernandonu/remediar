@@ -576,6 +576,11 @@
 <userdata name='name'>ins_admin_old</userdata>
 <userdata name='dir'>inscripcion</userdata>
 </item>
+<item id='3097' text='auditoria' child='0' im0='leaf.gif' im1='leaf.gif' im2='leaf.gif' >
+<userdata name='nodeType'>3</userdata>
+<userdata name='name'>auditoria</userdata>
+<userdata name='dir'>remediar</userdata>
+</item>
 </item>
 <item id='3011' text='Listado Inscriptos Nueva Operacion' child='1' im0='iexplore.jpg' im1='iexplore.jpg' im2='iexplore.jpg' >
 <userdata name='nodeType'>2</userdata>
