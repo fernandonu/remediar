@@ -83,7 +83,7 @@ conseguir ultima parte, secuencia final.
  if (strlen($seq) < 5) {$seq = str_repeat("0",5-strlen($seq)).$seq;}
 // Fin datos para armar nombre de archivo A
        
-$sql_tmp="SELECT beneficiarios.*, smiefectores.nombre FROM uad.beneficiarios
+$sql_tmp="SELECT beneficiarios.*, smiefectores.nombreefector FROM uad.beneficiarios
 			left join facturacion.smiefectores on beneficiarios.cuie_ea=smiefectores.cuie";
 
 if ($cmd=="p")
